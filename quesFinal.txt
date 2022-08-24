@@ -1,0 +1,87 @@
+11 simulate behaviour portion desire software product
+12 test stage influence both cod stage lrb phase 5 rrb solution refinement stage lrb phase 7 rrb
+13 abstraction reusability
+14 main function
+15 location in memory store value
+16 variables declare anywhere in program declare inside function lrb local variables rrb outside function lrb global variables rrb
+17 block inside while statement execute least
+21 data members lrb attribute rrb member function
+22 data members access member function inside class defintion local variables access inside member function define
+23 constructor call whenever object create function need call explicitely constructors not return type function indicate return type
+24 no constructor provide compiler provide one default constructor define class compiler not create default constructor
+25 unlimited number
+26 function prototype include function signature e name function return type parameters s type function definition include actual body function
+27 store class interface include data members member function prototypes
+31 name function type parameters
+32 file scope
+33 make copy function code in every place function call make
+34 avoid make copy large data structure call function
+35 base function signature overload function call compiler find function whose signature closest give function call
+36 recursion step define incorrectly base case not include
+37 both involve repetition both termination test both occur infinitely
+41 in array declaration use initializer list
+42 string declare use array character null element add end array
+43 reference
+44 array declare static live throughout life program initialize function declare array first call
+45 dimension except first one
+46 runtime error
+47 row
+51 take one array element time leave right insert in right position among already sort elements leave
+52 take one array element time leave right identify minimum remain elements swap current element
+53 n lrb length array rrb operations achieve sort array
+54 size array sort 1 lrb 2 rrb
+61 variable contain address in memory another variable
+62 memory address operand
+63 alias lrb synonym rrb name object operand point in memory dereferencing operator
+64 initialize pointer point first element array incrementing pointer index array element
+65 size in bytes operand
+66 four ways: nonconstant pointer constant data nonconstant pointer nonconstant data constant pointer constant data constant pointer nonconstant data
+67 address location in memory function code reside
+71 collection elements allocate dynamically
+72 link list variable length
+73 elements in array access directly lrb oppose link list require iterative traversal rrb
+74 reference
+75 last element in circular link list point head list
+76 deletion insertion operations perform in constant time include operations perform before give location in list end list
+77 extra space require store back pointers
+81 data structure store elements property last item add first remove lrb lastinfirstout rrb
+82 push pop
+83 keep top stack toward end array push pop operations add remove elements right side array
+84 keep top stack point head link list push pop operations add remove elements begin list
+85 linkbased dynamic lrb no size constraints rrb
+86 first convert postfix form follow evaluation postfix expression
+87 pop elements store another stack until element find push back elements original stack
+91 data structure store elements property last item add last remove lrb firstinfirstout rrb
+92 enqueue dequeue
+93 use circular array keep rear queue toward end array front toward begin allow rear pointer wrap around
+94 keep rear queue point tail link list enqueue operation do end list keep front queue point head link list dequeue operation do begin list
+95 linkbased dynamic lrb no size constraints rrb
+96 push
+97 queue
+101 collection nod special node call root rest nod partition one disjoint set set tree
+102 length longest path root leave
+103 node no children
+104 tree maximum number children per node two
+105 binary tree property node leave child smaller than parent in turn smaller than right child
+106 traverse leave subtree root right subtree
+107 height tree lrb log number elements in tree rrb
+111 function members data members
+112 private public
+113 use constructors
+114 name function list parameters include type
+115 function call
+116 through iteration
+117 static array intialized function call
+118 char [] automatically add null 0 character end string
+119 divide problem smaller subproblems solve recursively combine solutions solution original problem
+1110 split original array two sort two halve merge sort array
+121 address location in memory
+122 implement algorithm measure physical run time
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+124 select minimum array place first position select minimum rest array place second position forth
+125 link list dynamic structure allow variable number elements store
+126 data structure store elements follow first in first out principle main operations in queue enqueue dequeue
+127 push pop
+128 walk around tree start root node see three times: leave below right
+129 find node replace leftmost node right subtree lrb rightmost node leave subtree rrb
+1210 height tree

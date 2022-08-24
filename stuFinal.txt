@@ -1,0 +1,2442 @@
+11 high risk problems address in prototype program make sure program feasible prototype may also use show company software possibly program
+11 simulate portion desire final product quick easy program small specific job way help see problem may solve in final project
+11 prototype program simulate behaviors portion desire software product allow error check
+11 define in specification phase prototype stimulate behavior portion desire software product mean role prototype temporary solution until program refine use extensively in problem solve
+11 use let users first idea complete program allow clients evaluate program generate much feedback include software specifications project estimations total project
+11 find problem errors in program before finalize
+11 address major issue in creation program no way account possible bug in program possible prove program tangible
+11 break whole program prototype program simulate part final program
+11 provide example model finish program should perfom provide forsight challanges would encounter provide opportunity introduce change finish program
+11 simulate behavior portion desire software product
+11 program stimulate behavior portion desire software product
+11 program simulate behavior portion desire software product
+11 lay out basics give start point in actual problem solve
+11 simulate problem solve part problem
+11 prototype program provide basic groundwork enhance improve solution problem
+11 prototype program part specification phase software problem solvin employ illustrate key problem problems solve in program sometimes serve base program expand upon
+11 program simulate behavior portion desire software product
+11 provide limit proof concept verify client before actually program whole application
+11 test main function program while leave out finer detail
+11 get early feedback users in early stag development show users first idea program look like make sure program meet requirements before intense program begin
+11 simulate behavior portion desire software product
+11 simulate behavior portion desire software product
+11 prototype program use in problem solve collect data problem
+11 ease understand problem under discussion ease understand program
+11 simulate behavior portion desire software product
+11 role prototype program help spot key problems may arise during actual program
+11 prototype program give general idea end product without time effort write out entire program
+11 show certain part program work suppose
+11 prototype program approach program enable one take organize approach develop effective program minimal errors strategic pattern solve problem e book give example costumer withdraw money bank approach take pseudo code level during ooa design lvl before proceed create solution
+12 refine possibly design test phase reveal problems in design production affect program unworkable in current form lead later production time than originally estimate also affect cod after test may need rewrite code program remove errors
+12 implementation phase maintenance phase effect
+12 verification cod refine solution maintenance influence test stage
+12 in rup stag in software life cycle influence test stage is: elaboration phaserefined progject vision iterative devilopment core system development system requirements accurate time cost estimate construction phaseiterative development remain system transition phasetesting deployment system
+12 refine solution production maintenance influence test stage
+12 elaboration construction transition affect test
+12 refine production maintenance
+12 refine solution
+12 verification debug
+12 refine cod
+12 second half elaboration phase construction phase transition phase
+12 refine step production step maintenance stage
+12 elaboration construction transition
+12 refine
+12 test stage direct influence final version program debug finalization software revision
+12 directly: refine cod refine right before test phase cod right after test phase indirectly: production maintenance refine occur before last two stag in software life cycle
+12 test refine production maintenance
+12 depend work do test spread throughout process prevent errors show later due lack foresight
+12 elaboration construction transition
+12 stag influence except set program requirements test fail change whole design implementation etc program well final outcome
+12 refine production maintenance
+12 cod refine
+12 refine production maintenance
+12 remove logical errors test valid data random data actual data
+12 1specification 2design 3risk analysis 4verification 5coding 6testing 7refining 8production 9maintenance
+12 refine stage production stage maintenance stage
+12 test could affect part life cycle could make go back specification not test well
+12 cod
+12 individual components step analysis design implement code well entire system test execution requirements identify during analysis stage e main output
+13 modularability ability reuse part program later in another program sometimes completely different goals program also make easier debug code divide code class specific job program fail one job one class debug good security purpose allow let someone use program sort list without give access source code also allow use inheritance polymorphism
+13 type program flexible make easier add modify program also type fail safe program check individual module eliminate redundant code make program easier read programmers debug program easier track source problem within module rather than 2 million line program
+13 main advantage objectoriented program exist class reuse program maintenance verification easier
+13 advantage oop allow us build class object three principles make oop are: encapsulationobjects combine data operations inheritanceclasses inherit properties class polymorphismobjects determine appropriate operations execution time
+13 advantage exist class reuse program maintenance verification easier accomplish
+13 object orient program allow programmers use object class change manipulate while not affect entire object class hold attrubutes affect object
+13 reusable components extensibility maintainability reduce large problems smaller manageable problems
+13 encapsulationobjects combine data operations inheritanceclasses inherit properties class polymorphismobjects determine appropriate operations execution time
+13 easier debugg reusability
+13 reusability ease maintenance
+13 one main advantage hide inner detail technique know encapsulation object combine data operations cannot see work another advantage reuse class define earlier in program method know inheritance finally another advantage object determine appropriate operations execution time technique know polymorphism
+13 exist class reuse program maintenance verification easier
+13 use different modules allow easier debug
+13 data encapsulation concept use function methods manipulate data
+13 modular reusable code allow faster deployment solutions general view solution
+13 cod debug program usually easier either compiler specify object work incorrectly function object assign easier identify code also look organize easier read help avoid redundant cod postprogramming maintenance also easier also modules reuse several time in program without much hassle abstraction art break one big problem smaller simpler problems solve many smaller problems share between unique complex problems create modules solve smaller repeat problems save time encounter again
+13 variables remain private code easily modify reusable well easily implement not mention easier read follow along observer
+13 data abstraction control possible isolate elements elements lot easier prevent tamper data
+13 encapsulation object use operations without know operation work inheritance cut redundancy reuse earlier class polymorphism object select correct operation use in situation
+13 make easier reuse adapt previously write code separate complex program smaller easier understand class
+13 exist class reuse program maintenance verification easier
+13 exist class feused program maintenance verification easier
+13 main advantage objectoriented program data abstraction easier maintenance reusability
+13 exist class reuse program maintenance verifications easy
+13 1existing class reuse 2program maintenance verification easier
+13 information hide easier debug program easier manageable
+13 exist class reuse program maintenance verification easier
+13 exist class reuse program maintenance verification easier
+13 well one encapsulation value variables inside object private unless methods write pass info outside object well inheritance subclass inherit variables methods super class example in book include obj clock obj alarm would still use clock first class
+14 function int main lrb rrb
+14 function main lrb rrb
+14 c plus plus program begin execute in main method
+14 c plus plus program begin execute main lrb rrb function
+14 begin in main lrb rrb function
+14 int main lrb rrb
+14 main method
+14 in test phase
+14 main function
+14 main
+14 begin execute funcion main lrb rrb
+14 main method
+14 root
+14 in main lrb rrb function
+14 c plus plus program begin execution main
+14 in main function ?
+14 main lrb rrb function
+14 main function
+14 function main
+14 after load require include statements libraries main method begin execution
+14 main function
+14 main
+14 c plus plus program begin execution main function
+14 main
+14 beg excute main
+14 main function int main lrb rrb
+14 c plus plus program begin execution main function
+14 in main function
+14 within main function
+15 variable integer string in program
+15 in program structure hold data uniquely name programmer hold data assign until new value assign program finish
+15 variable location in memory value store
+15 variable location in computer s memory in value store later retrieve value
+15 variable location in computer s memory value store use program variable name value type size
+15 name object hold numerical letter value
+15 sybol name value number example: use number stand give number programmer refer number use variable name
+15 variable location in computers memory value store use program
+15 identifier hold location in memory
+15 block memory hold specific type data
+15 location in computer s memory store use program
+15 location in memory value store
+15 value word assume set value
+15 pointer location in memory
+15 variable memory address specific type store data mathematical perspective symbol represent fix definition change value
+15 variable value subject change in computer s memory use program program change value variable recall later act directly
+15 symbol stand in value may may not change depend program
+15 placeholder hold information use in program example: int hold: 1 2 3 4 68 72 256 etc float hold: 154 5555 124 5657 88123 et char hold: b c d e f! 4 5 6 p etc
+15 store value use program
+15 way store different value program number word letter etc
+15 object location in memory value store
+15 location in memory value store
+15 variable object data store
+15 location in memory value store
+15 location in memory value store
+15 variable location in computer s memory value store use program
+15 variable location in computers memory value store use program
+15 location in memory data store retrieve
+15 method identifier would say use bind data object memory location store in location access manipulate later variable name call
+16 declare right before use good practice declare begin program label food
+16 in function main lrb rrb before use variable
+16 local variables declare inside method function use in begin method global variables declare outside function method generally before function define
+16 variables declare ever define either inside block locally outside block globally
+16 variables declare before actually use declare before main lrb rrb use globally
+16 good program practice should declare before main lrb rrb should least declare before use
+16 declare globally before main method lrb also outside rrb variables subject method scoped within would still declare begin method lrb inside rrb
+16 local variables declare inside method while global variables declare in body
+16 in main function
+16 globally entire program locally individual function lrb include statements rrb
+16 usually declare begin before use in program always contain name data type
+16 inside method
+16 top
+16 global variables declare in body code local variables declare in function use lrb unless function pass variable rrb variables should always declare before use
+16 variables usually declare begin module c plus plus code
+16 in main function usually top code declare almost anywhere must declare before code use act upon
+16 in begin program before main lrb rrb start
+16 in declaration function statements while statements in body while while statements in namespaces headers etc lrb almost anywhere rrb anywhere in program long own line
+16 after declaration variable s data type
+16 anywhere in code top in middle code anywhere
+16 before use
+16 anywhere in same scope before use
+16 variables declare in class methods
+16 inside function scope outside function scope in case global variables
+16 global variables declare in main function local variables declare in function
+16 variables usually declare begin c plus plus program declare in program long appear before call upon
+16 variables declare in main function before operation attempt variables
+16 anywhere declare depend want accessible lrb scope rrb
+16 depend s global declare out side source code use in every scope however local variable one declare in local function etc obviously doesn t need declare outside variable see use function block call
+17 statement first evaluate condition execute line code in statement 0 time while statement execute line code evaluate condition
+17 while statements evaluate whether not loop after run block contain within least main differance while statements possibility never use while statements hand always run least before evaluate whether run again
+17 main difference between while while loop while loop always cycle through loop least while loop not always
+17 while loop use execute block code long condition true while loop use execute block code long condition satisfy difference between while while while loop test condition before execution content while loop test condition after execution content least
+17 termination condition while statement usually end loop run least while statement condition false begin loop never run
+17 while loop check statement make sure true before execute while loop execute before check statement see should run again
+17 while statement test condition while loop first chance loop never run while loop always run while test determine run again
+17 while loop always execute while loop s conditional statement true run
+17 while statementthe condition check validity repeat until conditon false while statement code perform least check valid condition continue
+17 while statements evaluate statement before execute cycle loop include first cycle mean while loop not always execute while run evaluate statement after run through cycle loop ensure loop always execute least one time
+17 main difference between while statement in while statement statements in block always execute atleast while statement execute condition true
+17 loop while statement always execute
+17 while statement process statement meet while while always process continue statement meet
+17 while run embed code least command not necessarily
+17 while test true first before run while run first before check
+17 while statement s body always execute least while statement not execute unless condition while true
+17 statements within block while loop always execute least regardless condition while loop may never execute condition not meet
+17 while loop always run through while while loop perform test before run through loop
+17 while statement test condition before start while statement loop through before condition test
+17 while loop terminate begin loop while terminate end loop
+17 loop body always execute least
+17 while loop evaluate expression top loop decide need execute dowhile always execute least evaluate expression bottom loop
+17 while statement always execute piece code least before check condition while statement always check condition first
+17 dowhile pass atleast 1 time before check condition however while would fail enter loop condition fail in first place
+17 while loop check condition true not first true excutes statement while loop execute statement before check condition condition true would excute statement again while loop would excute statement atleast
+17 no answer
+17 while loop always execute atleast while loop may never execute depend teh condition
+17 while loop precheck lrb check condition statement before execute code within while block rrb while loop postcheck lrb check condition after block execute run least no matter condition statement rrb
+17 rrb rrb main difference between while while statement? while construct consist block code condition first code within block execute condition evaluate do until prove false difference between while loop test condition before code within block execute
+21 us usually set get displaymessge message tell properties class not reveal implementations could anything want in own class definition
+21 attribute say class also whether not subclass also whether public private protect
+21 information tell compiler data members member function belong class
+21 since class user define body declaration contain members either data function declarations optionally access specifiers example specifiers would public private protect keyword class class body enclose bracket lrb rrb
+21 object data
+21 specific class name include information define class implementation detail etc
+21 data members member function
+21 class definition usually contain function data members
+21 data members member function
+21 member function
+21 member function data members belong class
+21 public private area include function variables use in class
+21 keyword class follow class name inside declare public private declarations class
+21 class definition typically include function definitions
+21 begin class follow class name usually constructor data members member function delineate class include in class s definition
+21 data methods
+21 constructor function variables accessible class possibly class depend do
+21 member function data members
+21 public section private section must semicolon set end
+21 member funtions data members
+21 data members member function
+21 data members member function
+21 class name public data type constructors methods function
+21 constructor several data members least one public data member method
+21 class name two curly prenthesis public private
+21 data members member function
+21 data function
+21 function data members belong class
+21 class variables function definitions class
+21 class expand concept data structure hold both data function execute
+22 data members data components particular class member function function components class
+22 field variable variable declare member class local variable avariable isdeclared local method
+22 data members declare inside class outside member function unlike local variables object class keep own copy data members store in memory
+22 data member variables represent attribute in class definition local variables declare in function body cannot use outside function body function terminate value local variables lose
+22 local variable cannot access outside function in declare data members normally private variables function declare private accessible member function class in declare
+22 data member part c plus plus class structure store data certain type local variable inside member function available inside function use derive desire outcome
+22 local variable access within scope declaration
+22 data members atributes function use outside function local variable not use outside function value lose after function terminate
+22 data members permanent attribute class local variables inside member function lose scope member function end
+22 data members declare in class definition outside body class s memberfunction definitions local variables declare in function definition s body
+22 data member globally accessible while local variable accessible inside member function
+22 variable inside member function access inside member data member access throughought program
+22 local variables use within scope declaration
+22 data member general term describe object instantiate within member function local in local variables refer scope variable may locate in anything control structure class local variables whose scope in member function same data members member function
+22 data member exist permanently in program s memory long run local variable inside member function temporal use operate in function exist long function run
+22 local variables use within function data members set public access use throughout
+22 local variable lose exit block code while data member not
+22 every member function access modify data member local variable use line declaration next close before lose memory
+22 data member accessible function in class local variable available member function value lose function close
+22 data members variables declare inside class definition outside body class member function local variables use within function declaration
+22 data member access outside class local variable cannot
+22 local variables cannot use outside function body function terminate value local variables lose data members variables in class definition exist throughout life object
+22 local variable in member function static data member change value freely
+22 local variable useable within function define data member available method within class
+22 variable declare in function defination s body cannot use outside function data members accessible member function class
+22 data members local variables declare in function definition s body cannot use outside function body function terminate value local variables lose
+22 local variable available in function
+22 local variables access inside member function while data members access throughout class
+22 data member accessible anywhere in class while local variable in member function accessible in particular function free after function exit
+22 data member encapsulate within class object static share instance class however local variable s use function block in declare not whole class wise would call global variables
+23 constructor initialize object object class function class perform task display line text kind mathematical operations
+23 constructors function not function constructors also function nearly infinite purpose while constructors always create instance whichever class use change constructor something not function change not also
+23 unlike regular function constructors use initialize object s data create constructors must also give same name class cannot return value
+23 constructor typically use intialize data members allocate resources instance memory file etc also constructor cannot return value function operations maybe globally define
+23 constructors cannot return value cannot specify return type normally constructors declare public
+23 constructor method start new instance class lrb example: employee employee 1 lrb parameters rrb start new instance object type employee rrb function simply module within program complete single desire task
+23 constructor call whenever new object class make
+23 constructor not return date no return type function return date not return data return type
+23 constructor automatically call whenever instance class create function must explicitly call user
+23 constructors cannot return value cannot specify return type like function
+23 constructor function use initialize object s data create
+23 constructor initialise everything nothing leave empty random varioubles function modify variables data
+23 constructor initialize value execution instantiation provide default value
+23 constructor set default value variables object instantiate function allow interaction object
+23 constructor use create object employ in main function program may may not execute code along function set code execute call not create new object
+23 constructor initialize data members function actually perform task constructors cant return value either
+23 constructor not need type use initialize variables
+23 constructors not return type
+23 constructor create class object memory function perform action against object
+23 constructors cannot return value
+23 constructor initialize value function usual perform sort operation
+23 constructor function use initialize object s data create call make implicitly object create must define same name class constructor also cannot return value like function
+23 constructor use create instance class same name class function cannot same name class compute data
+23 constructor function initialize class instance function perform whatever task write
+23 constructor cannot return value not even void function get return value
+23 constructor cannot return value not even void use initialize object s data create function create specific task return value
+23 constructor initialize object function part object
+23 constructors initialize data use in calculations function
+23 constructor call class create function call time
+23 constructor special block statements call object create either declare statically construct stack however function portion code within larger program perform specific task independent rest code
+24 compiler create default constructor not define one in class file
+24 during compilation
+24 class not explicitly include constructor
+24 no parameters set default constructor use
+24 class not explicitly include constructor
+24 no arguments pass
+24 not one already specific class
+24 program compile
+24 constructor not provide programmer class
+24 in class not explicitly include constructor
+24 before main function code
+24 whenevery dont specifiy own
+24 non provide
+24 c plus plus create default constructor no constructor present
+24 no constructor specify in constructor s class class instantiate in program
+24 no constructor exist one need parameterless default constructor declare
+24 compiler create automatically unless specifically create one
+24 in class not explicitly include constructor
+24 no userdefined constructor exist
+24 class not explicitly include constructor compiler create one
+24 not provide own constructor
+24 class not explicitly include constructor
+24 c plus plus create default constructor during compilation one not provide
+24 class not explicitly include constructor
+24 compiler provide one class not explictly include consructor
+24 programmer not explicitly include constructor
+24 one not explicitly state
+24 one not explicitly include class
+24 dont specify constructors
+24 begin run complier matter fact in c plus plus generate own default constructor class provide no constructors provide user
+25 one per class
+25 many want long different parameters
+25 no limit number constructors in class like function constructors overload
+25 depend type class define typically would constructor call object
+25 in c plus plus constructor overload in than one constructor class different parameters
+25 1
+25 number want
+25 one
+25 default one may overload create many constructors necessary
+25 many want
+25 many want different parameters
+25 infinite
+25 many need
+25 many need depend many variables one wish directly modify leave default instantiate object
+25 large amount constructors create give class through overload two constructors different type number parameters create say overload c plus plus recognize constructor use base type variables pass return
+25 depend number object object should constructor
+25 theoretically unlimited long define programmer
+25 many need
+25 many want need
+25 several
+25 one
+25 one
+25 infinite constructors long signature different
+25 depend number data members in class
+25 one
+25 overload constructors need
+25 many programmer want create
+25 one
+25 many want long unique argument list
+25 many user decide use
+26 function definition not require additional information need pass inside parenthesis execute while definition prototype require than one parameters pass in order complete task
+26 function prototype programmer declare he she use function than main lrb rrb like declare variable programmer know he she use in future yet say go use answer question give function name character function prototype common practice place begin program after include before main lrb rrb function definition gut function programmer decide function go tell take whatever information give perform operations work sort like brain brain take in input base upon input perform in way produce output function defintion place outside main lrb rrb function function own entity should think
+26 function prototype tell compiler function name return type number type parameters without reveal implementations contain in function definition
+26 function prototype declaration function definitions lrb multiple parameters rrb often require than one piece information perform task
+26 function prototype declaration function tell compiler function s name return type type parameters
+26 prototype show return type necessary parameters definition include name parameters define object actually capable
+26 prototype tell user data type go function type return
+26 function prototype locate in h file contain access function name paramater type function definition contain code function perform activity
+26 function prototype use reference compiler function define later function definition actual function complete return type parameters etc
+26 function prototype describe class s public interface without reveal class s member function implementations
+26 function definitions definition prototype compiler use check call function correct
+26 prototype not include actual code function code execute in program
+26 prototype declare use in program definition
+26 function prototype lay out name return type number type parameters function expect receive in certain order detail function prototypes in function definition
+26 function definition code define function place in bracket determine function s operation function prototype show function s public interface without expose implementation show name return type type paramaters
+26 function prototype declaration function exist cant use actual function function create definition within tell compiler function
+26 prototype create framework call function definition while function definition function actually program out create final product
+26 function prototype describe class s public interface without provide function work function definition contain inner work function
+26 prototype state function in class before compilation definition actually hold source function
+26 function prototypes tell compiler function name return type type parameters function definitions actually implement member function
+26 function prototype specify parameters function definition include parameters code body
+26 function prototypes describe class s public interface
+26 prototype declare name return type input type definition also define scope variables process return function
+26 function prototype simply declare function parameters function definition include necessary variables function s actual code
+26 functgion prototype declaration function while function definition specify function
+26 in function prototype include return type name function parameters need in function definition write code function
+26 function definition contain code function work function prototype show output input function name
+26 function prototype describe class s public interface without reveal class s member function implementations function definitions show implementations do
+26 function prototype name function return type argument list while definition define above well function actually
+26 function prototype describe class interface without revile whatever inside function definition cannot
+27 role header file list function class while hide inner work function
+27 main role header file use share information among various file
+27 header file separate file in class define allow compiler recognize class use elsewhere
+27 no
+27 header file consist reusable source code class in file convention h filename extension differ cpp file contain sourcecode
+27 provide information content library include definition class declarations function data type constants
+27 header file show user type go come out function not allow user manipulate actual code function
+27 header file declare class member function
+27 header file allow separation declaration implementation separate file
+27 header file access c plus plus standard library make certain class like class string work
+27 instruct compiler interface library userwritten components
+27 create comon area contain reusable function
+27 declare function use in class
+27 include hat h allow use hat container call act pull name hat header file hat include function storage retrieval content mainly put lrb rrb peek lrb rrb pull lrb rrb
+27 hold reusable content modules separate actual sourcecode file easily reference employ different program
+27 header file file use store list prototye function data members
+27 header file cross communication method between source file help limit size individual program without header file program 1 large lump code thus fairly hard debug traverse
+27 contain reusable source code use class
+27 separate source code main function allow methods class include in program without direct cod allow re usability
+27 header file reusable source code in file programer use
+27 hide definition detail class also help readability main c plus plus file
+27 allow compiler recognize class use elsewhere
+27 header file declare class data function available through class
+27 header file contain code use in multiple file
+27 allow compiler recognize class use elsewhere
+27 allow compiler recognize class use elsewhere
+27 promote function reusuablitly
+27 class definitions place
+27 header file usually contain class function prototypes
+27 contain standard c plus plus library s e string
+31 include name program type parameters take should also include brief description function
+31 include specific information function input output variable type many
+31 function signature include name function type arguments
+31 function signature consist function prototype tell general information function name parameters scope in miscellaneous information
+31 include name function type arguments
+31 name paramaters scope general function information
+31 include function name parameter list not include return type function signatures must different
+31 input parameters return type
+31 portion function prototyp tha function name arguments not return type
+31 name function type arguments
+31 name function type arguments
+31 include name function type arguments
+31 identification function data type parameters name data type variables
+31 return type input parameters
+31 function signature include method name input type
+31 function signature include name function type arguments not return type
+31 signature include result type throw errors
+31 function name input paramaters
+31 name function type arguments include number type order parameters appear in
+31 name function type arguments
+31 function signature include name function type arguments
+31 function signature include function s return type parameters semicolon
+31 name function type arguments
+31 function s name parameters
+31 name function type arguments
+31 portion function prototype include name function type arguments
+31 name function parameters
+31 function name parameters
+31 name function type arguments
+31 function s return type parameter list
+31 include name function type arguments not specify function return type function in same scope must unqiue signatures
+32 function follow deceleration in source code file allow access variables also global scope variables retrain value throughout execution program
+32 access c plus plus file anywhere
+32 global variables file scope
+32 scope global variables create place variable declarations outside class function definition global variables retain value throughout execution program reference function follow declarations definitions in source file
+32 global variable identifier retain value throughout execution program file scope
+32 global variables use in function long appropriate h file hold variable include
+32 access part program reference function follow declarations definitions in source file
+32 accesed class object variables class in
+32 global variables filescope variable know function throught file
+32 entire program
+32 file scope place outside function
+32 file scope
+32 use throughout program
+32 global variable b access class wit object in variables class
+32 scope global variables file level
+32 global variables file scope
+32 accessible function within program
+32 variables accessible anywhere in program long public
+32 reference function follow declaration definition inside source file
+32 globally anywhere in program
+32 global variables file scope
+32 entire program
+32 throughout execution program
+32 variable declare global function class use variable
+32 entire program file
+32 throught programm
+32 whole code
+32 file scope
+32 reference function follow declarations definitions in source file
+32 global variables program scope lrb accessible anywhere in program rrb
+32 variables exist throught entire script value change anytime in code fucntions
+33 expand function s definition in place function call use many time need compiler expand function
+33 compiler inlineexpands function call function s code get insert caller s code stream lrb conceptually similar happen define macro rrb depend zillion things improve performance optimizer procedurally integrate call code optimize call code caller
+33 inline keyword advise compiler copy function s code in place avoid function call however compiler typically ignore inline qualifier smallest function
+33 compiler ignore inline qualifier typically smallest function
+33 place qualifier inline before function s return type in function definition advise compiler generate copy function s code in place avoid function call
+33 declare inline function in header before int main lrb rrb call function anytime in main program quickly easily
+33 expand small function out make code longer also make run faster
+33 function not treat separate unit like function
+33 program compile copy function inplace avoid function call
+33 replace instance function call inline code result in longer faster program
+33 compiler ignore inline qualifier typically smallest function
+33 ignore inline qualifier typically smallest function
+33 function small enough expand run faster avoid make many call function
+33 treat same function
+33 inline function copy in place instead reference
+33 inline function compiler create copy function s code in place not make function call add function call stack
+33 generate copy function s cod eliminate call function
+33 not answer
+33 generate copy function s code insert in program
+33 tell compiler make copy function s code in place avoid function call typically ignore except smallest function
+33 compiler ignore inline qualifier typically smallest function
+33 multiple copy function code insert program make bigger
+33 compiler ignore inline qualifier
+33 generate copy function need again
+33 complier include copy inline function instead make function call usually small function
+33 compiler generate copy function s code in place lrb appropriate rrb avoid function call
+33 instead call function every time invoke compiler replace function call copy function body
+33 expand function program
+33 generate copy function code in place avoid function call
+33 function call replace code define in inline function
+33 compiler inlineexpands function call function s code get insert caller s code stream lrb conceptually similar happen define macro rrb depend zillion things improve performance optimizer procedurally integrate call code optimize call code caller
+34 overall program better performance lrb mean faster rrb not copy large amount data
+34 cannot change original pass reference limit memory need program
+34 pass reference eliminate passbyvalue overhead copy large amount data
+34 often efficient pass reference rather than large object function allow compiler pass address object while maintain syntax would use access object
+34 pass reference good performance reason eliminate pass value overhead copy large amount data
+34 not alter original value variable pass
+34 not make copy stuff
+34 not use unessesary memory space copy variables between function
+34 elimitates need copy large amonts data
+34 function change data store in variable pass reference directly
+34 give call function ability access modify caller s argument data
+34 give call function ability access modify caller s argument data directly
+34 efficient change variable not online inside function outside new value use elsewhere
+34 not make another copy waste memory
+34 pass reference eliminate copy large amount data typical pass value
+34 function s arguments large in size compute time memory space not waste copy argument pass function also pass reference give function call permission read edit argument directly
+34 give access caller data directly also allow modify data
+34 less overhead overall modify variable directly
+34 original variable reference modify directly call function
+34 give function ability access modify caller s argument data directly
+34 give call function ability access modify caller s argument data directly
+34 less overhead than pass value especially use large number
+34 large data items pass without copy entire data point reduce execution time amout memory space need
+34 data modify directly instead make copy data improve execution time large amount data
+34 function directly modify arguments pass reference
+34 give access modify caller s argument data directly eliminate pass value overhead copy large amount ofdata
+34 take less memory thus would make program faster
+34 able modify variable reference directly
+34 pass reference modify value oppose pass value cannot change value
+34 memory address send function no copy object send need make make function run faster save memory
+34 actual arguments associate dummy arguments function subroutine reference in procedure reference actual argument list identify correspondence between actual arguments provide in list dummy arguments subprogram
+35 compiler select proper function execute base number type order arguments in function call
+35 differentiate compiler condition input use one overload function
+35 compiler distinguish overload function signatures encode function identifier number type parameters generate typesafe linkage ensure proper overload function call
+35 overload function distinguish signatures name mangle name decoration typesafe linkage ensure proper overload function call type arguments conform tpes parameters
+35 compiler select proper function execute base number type order arguments in function call
+35 type initilized lrb int char etc rrb
+35 select proper function execute base number type order arguments in function call
+35 overload function must same return type different input parameters
+35 examine name type order arguments function
+35 unique function signatures
+35 base number type order arguments in function call
+35 compiler select proper function execute base number type order arguments in function call
+35 not answer
+35 same return type different input parameters
+35 overload function differentiate parameters
+35 compiler select right function execute number type order arguments in function call
+35 create set candidate function set viable function
+35 function signature
+35 number type parameters
+35 function signature
+35 same name different parameters
+35 differntiated number type order arguments in function call
+35 look number type order arguments in function call
+35 compiler differentiate overload function signature
+35 number type order arguments
+35 compiler select proper function execute base number type order arguments in function call
+35 paremeters
+35 number type order parameters
+35 number type arguments
+35 signature lrb return type argument list rrb
+35 overload function simply invovles haing method same name within class use implement method subclass override in word replace implementation super class overload concept provide different mean object base context presence overload one type polymorphism also feature in program
+36 base case simplest case problem function lead not happen end infinite loop condition know terminate
+36 badly design algorithyms use recursion non recursive problem
+36 infinite recursion occur base case omit recursion step write incorrectly never converge base case
+36 infinite recursion infinite loop condition not meet either omit base case write recursion step incorrectly not converge base case cause indefinite recursion eventually exhaust memory
+36 either omit base case write recursion step incorrectly not converge base case cause infinite recursion
+36 not base case return base value
+36 incorrect miss base case must reduce base case function must get simpler time run lrb converge base case rrb
+36 no base case no change in value
+36 recursive call problem not diminish not diminish base case cause infinite recursion
+36 omit base case incorrectly call recursive step
+36 recursive problem cannot reduce reach base case
+36 lack define base case write recursion step incorrectly not converge base case
+36 not proper case leave recursion
+36 no base case recursive call not converge base case
+36 no base case incorrectly write recursion step not converge base case lead infinite recursion
+36 recursion function never reach successfully define base case recurse forever happen many ways function not progress towards base case function cod poorly not even contain base case
+36 not create base case in case base case never meet
+36 improper handle case not possible value able handle
+36 no base case recursion step not reduce problem during recursive call
+36 no base case in single return not include call function again static value end
+36 either omit base case write recursion step incorrectly not reach base case cause infinite recursion
+36 omit base case write recursive call not converge upon base case
+36 either omit base case write recursion step incorrectly not converge base case
+36 infinite recursion may occur no base case define call not vary
+36 not base case build recursion process not converge base case
+36 either omit base case write recursion step incorerectly
+36 no base case programmar not define base case simplest case never get reach
+36 no easily reach base case no base case
+36 function never allow reach base case
+36 no base case base case never meet
+36 recursion refer situations in function call type function know recursive function say infinite recursion occur function design in way call self forever without stop possible cause
+37 both involve control repetition structure both termination test also both loop forever
+37 discuss earlier recursion may use process iterative action recursion use calculations answer describe in function relate
+37 both iteration recursion base control statements involve repetition both also occur indefinitely
+37 both base control statement iterationrepetition structure recursionselection structure both involve repetition iterationexplicitly use repetition structure recursionrepeated function call both involve termination test iterationlooptermination test recursionbase case both gradually approach termination iterationmodifies counter until looptermination test fail recursionproduces progressively simpler versions problem both occur indefinitely iterationif loopcontinuation condition never fail recursionif recursion step not simplify problem
+37 iteration recursion many similarities: both base control statement involve repetition involve termination test gradually approach termination occur infinitely
+37 both rely repetition both base case both become infinite loop anything recursive also solve iteration
+37 both repeat lrb loop rrb until condition meet exit loop both capable enter infinite loop
+37 anything iterativly recursively
+37 both repetative both end test
+37 incorrectly write either result in infinite loop both perform same task over over
+37 both base control statement both involve repetition both involve termination test both gradually approach termination both occur infinitely
+37 both base control statement both involve repetition both involve termination test both gradually approach termination both occur infinitely
+37 not answer
+37 anything recursively iteratively
+37 many problems solve both iteration recursion either may go condition infinite execution termination test omit
+37 iteration recursion both use repetition perform several simple operations algorithms successively until reach certain limit both involve termination test find limit both slowly approach termination limit both base control statement well cod poorly both continue forever until compiler computer either lock shut halt operation
+37 both base control statement involve repetition involve termination test within loop
+37 methods repeat same task
+37 both involve termination test use control statement repition solve problem also result in infinite loop
+37 base control statement involve repetition involve termination test
+37 both base control statement both involve repetition both involve termination test both gradually approach termination both occur infinitely
+37 both base control statement both involve repitition both involve termination test both gradually approach termination both potentially occur infinetly
+37 both base control statement both involve repetition both involve termination case both graduatlly approach termination case both occur infinitely
+37 both use repetition control test terminate both infinitely repeat not define correctly
+37 both base control statement both gradually approach termination end termination test both involve repetition both repeat infinitely termination requirements not meet
+37 both base control statement involve repetition involve termination test both gradually approach termination both occur infinitely
+37 use solve same type problems task over over again until cirtain conditional statement reach lrb call base case in recursion rrb
+37 base control statement involve repetition involve terminal test both occur infinitly
+37 repetition termination test eventually terminate occur infinately
+37 both need kind base case tell loop need stop
+37 both able repetiive task however recurisve call different parameters define exit clause guarantee reach iterative include loop iterate predetermine number time check exit clause every time through
+41 int n [10] array 10 integers int n [arraysize] arraysize positive integer define user
+41 either input different elements in array cod give array specifacations size array also possible give specifacations tell array grow need
+41 initialize array use initializer list in declaration initialize size constant variable
+41 pass length along array use vector
+41 one way declare size array use variable equal integer way size omit in declaration compiler determine size array base size initializer list
+41 in declaration lrb int array [x] rrb initilizer lrb int array [] equal 012 etc
+41 1 declare length array lrb int array [10] rrb 2 initialize array lrb int array [] equal 0 1 2 3 compiler assume size 4 rrb
+41 statically dynamically
+41 explicitly int array [10] variable const int size equal 10 int array [size]
+41 array lengths explicitly specify input number elements between bracket [] during declaration implicitly include initializer list without specify number between [] compiler automatically declare array proper number elements need list
+41 specify array s size constant variable set array elements calculations
+41 statically use dynamically use []
+41 define array [5] array [12345]
+41 static dynamic
+41 manually inside bracket automatically via initializer list
+41 use initializer list simply tell compiler many elements want in array initializer list: int [] equal 10 2 3 4 5 elemental declaration: int b [5] both array 5 elements in array already initialize
+41 in string specify strlen lrb arrayname rrb command get length string another way integers initiate size start ex array [40] specify possible length 40 pass object actual ammout in array another way declare in initialize program
+41 implicit namely give value like 123456789 compiler automatically give size static during declaration
+41 supply integer inside bracket compiler count number elements in initializer list int n [5] int n [] equal 12345
+41 either initialize array specific length initialize array while declare content
+41 within bracket use initializer list
+41 specify number elements in array declaration constant use constant variable future scalability
+41 number variable
+41 explicitly declare in bracket lrb e int array [50] rrb implicitly initialize several value lrb e int array [] equal 1 2 3 rrb
+41 one way specify array [10] way specify array [arraysize] equal [12345678910
+41 1initializing array in declaration initializer list 2specifying array s size constant variable
+41 initialize size in brackets: int [100] initialize length assign variables: int [] equal 123
+41 user define value number elements in initializer list
+41 assign size inside bracket declare array [3] set many items set array equal 123
+41 use arraylist program ask array many elements obj should member length number slot
+42 string use in char array much easier manipulate than string object character store separately rather than whole
+42 type string use less storage change string array character make permutations word use character store in array without need actually access change variables array character change access
+42 unlike in string declare use type string in string declare use array character programmer must provide null terminate character must ensure array large enough hold string null terminate character
+42 string represent character array end null character declare object type string like type example: string s
+42 use array character one store manipulate string rather than type string variable
+42 type string array char make array single letter character while array string actual array word lrb array char array rrb
+42 basically same however string end null character denote end string lrb size rrb char array potential size must declare limit
+42 string class in standard library method modify char array able modifie user
+42 use array character limit size array character declare type end string acknowledge white space
+42 data class type string design handle character data many function build class library deal array character however subject same rule array no real additional functionality another difference string class deal null character implicitly unlike array character must handle null character explicitly
+42 string declare use in array character contain character in array special stringtermination character call null character versus type string
+42 char array read string individual character string literal array read entire string
+42 array character hold many character array size string not limit
+42 sting modify function string class array character modify user
+42 type string array contain additional terminate null character
+42 array character null character 0 end array signify array s end string not
+42 string type string string not part array list one declare array actually array character able point detect
+42 array character set length while type string virtually unlimited length
+42 char array individual letter access directly array subscript notation string array array subscript return entire string
+42 array character need termination character well size specification whether explicit implicit
+42 use array individual character access manipulate
+42 string declare use array character could result in data loss character array not initialize large enough
+42 array pass reference therefore array character change memory change not variable
+42 type string several builtin function not available use char array individual character in array directly accessible than character in string type string
+42 declare string include white space declare array character not include white space
+42 array character one element string doesnt termination element null
+42 string declare use type string vary in length string declare use array character not extend past array length
+42 cant modify individual character type string array character type array modify individual character
+42 type string class safer while array character
+42 array collection similar data type ex: int [10] ten indicate size array [] index array give integer value array string mean collection group character string declarations datatype usually cause storage allocate in memory capable hold predetermine number symbols however array declare contain value non reference data type multiple arrarys same type
+43 reference
+43 reference pointer element in array
+43 array pass function reference
+43 array pass reference individual array elements pass value function take array arguments function prototypes may include parameter name const array parameters
+43 array pass reference
+43 must pass array size function ex function lrb array size rrb
+43 usually same way pass anything else not specify length char array pass function send name array example: char str [20] ispalindrome lrb str rrb send char array function ispalindrome otherwise would need send length array well
+43 pass pointer first item also pass size
+43 reference
+43 in two part array size function pass avoid out bound errors
+43 specify array name without bracket array size normally pass another argument function process specific number elements in array array pass reference individual array elements pass value function take array arguments
+43 array pass reference
+43 same way [] declaration actual function
+43 specify array name without bracket
+43 reference
+43 pass name array function for: int bin [10] pass array like so: jingle lrb bin rrb jingle must declare correctly in order receive array either prototype void jingle lrb int [] rrb definition in initialization: void jingle lrb int array [] rrb also worth note array pass function reference not copy large array over over burn memory give function complete control over array however
+43 call function function must loop through array get set character
+43 reference default unless specify const later make array unmodifiable
+43 function recieves both array array size parameters function lrb arrayname arraysize rrb
+43 specify array name pass reference in argument function
+43 1st must specify array name without bracket array name size pass two arguments in function call
+43 array pass reference pass start address array programmer specify array name without bracket pass array size another argument function process specific number elements in array
+43 reference
+43 reference
+43 reference
+43 refrence
+43 function lrb int [] int length rrb
+43 reference
+43 reference
+43 function read variables store return ever variable read function print content array
+44 static array store new value assign elements mean call function twice use last value return first time not declare static new value not store reset original value
+44 static array reference not access also static array use without create object
+44 array declare static not create initialize time function also not destroy function terminate
+44 program intializes static local array declarations first encounter static array not initialize explicityly programmer earch element array intialized zero compiler array create nonstatic array members cannot initialize in c plus plus
+44 array static remain same size throughout program execution
+44 static array initilized non static array reinitilized program reach initilization line again
+44 array declare static available begin program end one o static declaration disappear not access within right scope
+44 static array preruntime size size cannot change dynamic array get size runtime
+44 array declare static not create time array call
+44 array not declare static reinitialize every time function declare call static array initialize declaration store value in elements throughout duration program even same function call multiple time static array initialize
+44 elements initialize zero not explicitly initialize not happen automatic local array
+44 elements initialize zero not explicitly initialize static array while nonstatic array not initialize zero
+44 static cannot change
+44 static array set size cannot change data may not need space assign could go beyond size
+44 static member prevent name conflict lrb not put global namespace rrb while allow information hide lrb private public rrb
+44 static local array exist duration program elements initialize 0 not explicitly initialize static local array s elements still same call later unless specifically initialize something else not happen automatic array
+44 static array declare size know program nonstatic array leave size undeclared open assign later usually use input purpose
+44 static array keep value after end function while non static reinitialize every time
+44 static array create initialize value not destroy function terminate in program automatic array reset everytime function call
+44 not create initialize time program call function not destroy every time function end in program
+44 declare static array not destroy after function over array not declare static array create initialize every time function call
+44 static array exist duration program
+44 array declare static declare
+44 static array exist in memory until program terminate automatic lrb normal rrb array remove function create terminate
+44 not answer
+44 constants use declare size automatic static array exist duration program initialize declaration first encounter elements initialize zero not explicitly initialize
+44 static array cannot change in program
+44 static array available throughout program
+44 static array allocate program start free program exit limit scope while array not declare static allocate free come out scope
+44 declare fix static mean cannot change size storage allocate however one not dynamic arrarys resize
+45 least 2 depend many array use
+45
+45 pass multidimensional array dimension must specify except first dimension
+45 depend parameters pass in multidimensional multideminsional than two dimension
+45 first dimension not require however subsequent dimension lrb s rrb need compiler
+45 first
+45 dimension must specify
+45 first one least
+45 two paramaters array many columns array lrb [] [3] rrb
+45 size first dimension omit same regular array however every dimension outside first size dimension must specify pass example multidimensional array [2] [4] [6] name multiarray would pass as: multiarray [] [4] [6] 2
+45 size subsequent dimension require compiler must know many elements skip move second element in first dimension
+45 every dimension after first
+45 both
+45 size first dimension not need specify dimension
+45 pass lrb in main rrb multidimensional array function no dimension need specify
+45 dimension except first one need specify pass array function compiler need know many memory address skip make back 2nd element in first dimension size first dimension not need specify
+45 many dimension commonly row columns
+45 least 2 should always equal number dimension argument expect like blah [] [] [] [] require 4 dimensional array input blah [] [] [] require 3 dimensional array blah [] [] require 2 dimensional array
+45 none pass array name
+45 subsequent dimension after first dimension first not need specify
+45 dimension exclude first one
+45 dimension first
+45 first need specify size rest need state lrb first like [3] [] [] [] rrb
+45 one less than number dimension array contain
+45 not answer
+45 one
+45 subsequent dimension after first one
+45 two
+45 1 less than total number dimension
+45 multi dimensional array access use than 1 index one dimension least
+46 compilation error
+46 compilation error
+46 use index outside bound array generate runtime error
+46 runtime error
+46 runtime error
+46 run time error
+46 runtime error
+46 runtime error
+46 compilation error
+46 runtime error program compile execute errors difficult debug
+46 runtime error executiontime error
+46 runtime
+46 run time
+46 generate compilation error compiler complain variable refer never declare
+46 runtime
+46 runtime error
+46 run time error
+46 runtime error
+46 compilation error
+46 runtime error
+46 runtime error
+46 runtime error
+46 compilation error
+46 runtime error
+46 not answer
+46 runtime error
+46 compilation error
+46 compilation error
+46 not cause compilation error either give runtime error give value actual location in memory cause logic error
+46 runtime error
+47 usually row follow column programmer determine value store in bidimensional array
+47 row
+47 multidimensional array store in memory row
+47 bidimensional twodimensional array store in rowcolumn matrix first index indicate row second indicate column mean array elements access in order in actually store in memory right index change faster than leave
+47 store in memory in row
+47 row
+47 row
+47 row
+47 mbyn rowcolumn
+47 bidimensional array store row
+47 row
+47 column
+47 columns
+47 row
+47 bydimensional array store row
+47 x y row column x row y columns since length row not need pass array function lead believe bidimensional array store row time
+47 both store in seperate section
+47 row columns
+47 row
+47 row row
+47 row
+47 row
+47 store row
+47 row
+47 row
+47 row
+47 row
+47 row column
+47 row
+47 no answer
+51 take element array compare next element depend value two elements switch program compare new switch element next one in array
+51 insertion sort divide list sort unsorted regions take item unsorted region insert correct order in sort region
+51 sort array list build one entry time
+51 start second element check see less than element lrb s rrb leave insert correct position
+51 compare two number time swap until entire list sort
+51 assume first number sort move list insert number come across correspond place sort side list
+51 insertion sort after k iterations first k items in array sort take k plus 1 item insert correct position in already sort k elements
+51 look 2nd element move forward place element in correct spot
+51 start begin array take element in order place in correct position relative previously sort elements
+51 sort elements in array remove element input data insert correct position
+51 insertion sort remove element data insert correct position in already sort list
+51 take number choose pivot point insert number in correct position pivot point
+51 marker sort everything leave value every new value move right
+51 main idea behind insertion sort take random variable right insert in order leave
+51 insertion sort progress through list elements determine next element should insert already sort array start sort use first two elements
+51 go through list pick integer put in desire position continue
+51 insert array items in appropriate position smallest largest pivot start second element array
+51 insert item proper position shift larger sort array value right
+51 comparison sort in sort array build one entry time
+51 insertion sort algorithm first element array in sort list pick one one take unsorted array sort array
+51 every iteration insertion sort take away element input data insert right position in sort list
+51 insertion sort create new array insert item in place respect new array
+51 insertion sort take entitity unsorted array in order sort correct position between entities sort
+51 take second element swap 1st less keep larger go third element insert in right place respect first 2 elements
+51 start first element in array follow element put in place determine smaller larger than start element
+51 one one item take place correct place in sort portion array until no items
+51 take element insert in correct position respect elements before
+51 insertion sort simple sort algorithm comparison sort in sort array lrb list rrb build one entry time
+52 search array largest smallest element move out front array search next largest smallest element move out front
+52 selection sort search whole array largest item put end array search second largest item put second last spot
+52 find minimum value swap value in first position
+52 find minimum element in array swap first element repeat step swap minimum element nth position in array
+52 find lowest value place front find next lowest place in front last value etc
+52 cycle through unsorted list place minimum in next slot in sort list repeat
+52 find minimum value in list swap first element in list find second largest swap second element in array continue like until array sort
+52 find smallest put in current position till get end
+52 find lowest unsorted value in array place current position lrb start first element in array rrb advance current position one
+52 sort elements compare two elements swap smaller one sort elements in array
+52 selection sort find minimum value in list swap first value in list repeat throughout list
+52 select minimum number array put in current position move
+52 find lowest value place in front list swap value continue move right
+52 main idea behind selection sort take least variable right put directly leave
+52 find smallest value in list make first element find smallest value leftover list make first element leftover list continue until list sort
+52 run through find lowest lrb highest rrb value put in desire position
+52 place smallest item in list position 1 proceed value until last position ray reach
+52 search largest item in array swap last unsorted item
+52 find smallest element place in 1st position process repeat rest array
+52 selection sort algorithm select larges item array put in place select next largest until array sort
+52 select smallest number in list move front list advance next number
+52 selection sort choose largest smallest value in unsorted list create new list use selection depend sort
+52 selection sort find smallest number leave unsorted in array put end sort
+52 select minimum remain elements array palces miminum in current position move next position
+52 put biggest element end list place next highest element behind
+52 sort find largest item place end next largest find place next last continue until one number leave begin sort array
+52 loop through entire list iteration find smallest element move current position
+52 find minimum value in list swap value in first position repeat step above remainder list lrb start in second position
+53 run time sort program n power 2 best case list already sort worst case list sort in reverse
+53 insertion sort o lrb n rrb perform n minus 1 operations in bestcase scenario list array already sort
+53 number operations insertions sort under bestcase n lrb n minus 1 rrb divide 2 best case insertion sort sort list run o lrb n rrb
+53 best case would o lrb n rrb n minus 1 take scan array make one swap array would sort would take 1 operation
+53 best case1 worst casen
+53 lrb n rrb operations lrb n rrb number elements in array best case elements already sort
+53 o lrb n rrb
+53 best case elements sort n minus 1
+53 best case scenario insertion sort elements array already sort cause loop iterate x time lrb x number elements in array rrb while loop never iterate result in insertion sort require x operations
+53 1 operation best case scenario s already sort one comparision
+53 n operations n number items
+53 n minus 1
+53 o lrb n rrb list already sort
+53 insertion sort take n minus 1 operations array in reverse order
+53 in best case scenario already sort list insertion sort progress through list number operations directly proportional number elements in list also note o lrb n rrb in big o notation
+53 1 list two ints one must move
+53 best case n while worst case n factorial
+53 n minus 1 best case array already sort
+53 worst case equal o lrb n rrb time best case equal o lrb n power 2 rrb time
+53 o lrb n rrb
+53 n number time n equal number elements in list bestcase scenario elements in list already sort
+53 best case scenario insertion sort list already sort number operations would same number elements
+53 insertion sort make zero operations lrb length 1 comparisons rrb in best case scenario array give already in order
+53 theta lrb n rrb best case senario everything already sort
+53 n operations best case scenario number in increase order
+53 could consider one item would easiest sort could also trivial result nothing move two items allow algorithm sort items correct order
+53 best case look through list best case scenario go through list not make change lrb list already sort rrb
+53 simplistic move one element list one insert in correct position new slot start over best case lrb 0 rrb 1
+54 base case recursive merge sort one number one number sort list regardless number
+54 base case recursive implementation merge sort sequence pass merge sort less than 2 elements
+54 base case recursive implementation merge sort one
+54 best case same worst case o lrb n log n rrb recursive merge sort
+54 one object in split array sort
+54 base case length current array 1
+54 o lrb nlog lrb n rrb rrb
+54 best case one element one element sort
+54 array sort 0 1 elements
+54 t lrb n rrb equal 0 n less than 2
+54 list size 1 already sort
+54 single element in array
+54 o lrb nlog lrb n rrb rrb
+54 n multiply log lrb n rrb
+54 list array 1 element
+54 must merge sort
+54 single element array
+54 one element in subarray
+54 array length less than equal 1 array return array merge together
+54 lrb right greater than leave rrb mid equal lrb right plus leave rrb divide 2 m sort lrb number temp leave mid rrb m sort lrb number temp mid plus 1 right rrb merge lrb number temp leave mid plus 1 right rrb
+54 sequence number zero one elements
+54 one element in array
+54 array length 1
+54 array one element
+54 one element in array start element in array same end element
+54 half original array nothing else sort put halfs back together
+54 size list send less than equal 1
+54 o lrb n log n rrb
+61 location in memory contain memory address another location in memory contain information
+61 pointer variable contain memory address value
+61 pointer variable store address another variable
+61 pointers variables contain value memory address variables
+61 data type whose value refer another value store elsewhere in computer memory use address
+61 pointer hold memory location
+61 name represent actual location value data type int star bptr point integer value
+61 variable store address another variable
+61 pointer program language data type whose value refer directly lrb point rrb another value store elsewhere in computer memory use address
+61 data type whose value refer another value store somewhere else in computer memory use address
+61 like variable however instead hold data hold location in memory
+61 pointer reference location in memory
+61 pointer reference memory location object
+61 pointer variable contain memory address variable value
+61 variable contain not star value memory address associate move along string array jump one memory address
+61 contain variable s memory address value
+61 variable point memory address another variable type specific
+61 element reference memory cell
+61 reference call place in memory object store
+61 variable contain address another variable
+61 pointer variable contain number memory address value may null 0 address value store in memory
+61 pointer variable contain memory address anther variable
+61 variable contain memory address another variable contain specific value
+61 variable memory address value
+61 type point something else memory address something else
+61 pointer way get another object essentially way grab instance object either pass instance message retreive data object pointer actually address instance hold in memory
+62 operator return memory address operand
+62 address operator return memory address operand
+62 return memory address operand
+62 address lrb address rrb operator return memory address operand
+62 return memory address operand
+62 return place in memory element
+62 address data stored: address b return address b
+62 address operator return address variable
+62 ampersand lrb address rrb mean pass reference function call pointer variable instead variable pass function
+62 address return memory address operand
+62 address variable in memory
+62 return address location in memory item
+62 address operator return memory address operand
+62 address operator return memory address variable precede
+62 memory address operand 0x 000000 something along line
+62 object s memory address
+62 reference variable
+62 return memory address operand
+62 memory address operand
+62 return address number specify variable
+62 return memory address operand apply normal variable give variable s memory address pointer variable might
+62 address unary operator return memory address operand
+62 address variable attach
+62 memory address operand
+62 return address put in front
+62 return pointer
+63 return synonym object pointer operand point
+63 star operator return synonym object pointer operand point
+63 return synonym object operand point
+63 return synonym alias nickname name object operand point in memory lrb dereferencing pointer rrb
+63 return alias nickname object pointer operand point
+63 star operator return value in memory address element point
+63 star return value
+63 star operator return dereferenced pointer variable lrb ie: return value whatever variable pointer point rrb
+63 dereferencing operator return dereferenced object
+63 multiply return synonym object operand point
+63 return information in address pointer point
+63 star operator return value memory address pointer point
+63 star operator return object memory location
+63 star operator return value object s memory address precede
+63 value object operand point
+63 value store in object point
+63 value variable pointer point
+63 return synonym object operand point
+63 synonym object operand point
+63 return synonym object operand point
+63 dereferences pointer mean return value store in memory address pointer refer
+63 unary operator return value variable locate address
+63 reference equal variable
+63 synonym object pointer operand point
+63 return actual data address point
+63 return zero many character place before operator
+64 array sign pointer element array assign pointer
+64 array address in pointer offset notation set pointer variable equal variable name array elements array access add offset value pointer variable
+64 element b [n] access multiply lrb bptr plus n rrb
+64 use either name array pointer use separate pointer point array
+64 element b [3] reference use multiply lrb bptr plus 3 rrb instead
+64 get memory location first element add offset get elements
+64 yes multiply lrb array plus offset rrb
+64 name array consider pointer in c plus plus pass in function parameters declare int [10] create pointer store address [0]
+64 element b [n] access multiply lrb bptr plus n rrb example array address pointer offset notation
+64 multiply lrb array plus element rrb
+64 multiply f [3]
+64 pointer front array add memory location lrb offset initial value rrb
+64 pointer array initially point first element array pointer incremented point next element
+64 int x [10] int star xptr xptr equal x address address x [1] same xptr plus 1
+64 take number array elements point time
+64 array act pointer reference pointer multiply lrb arrayptr plus 3 rrb multiply lrb array plus 3 rrb
+64 use multiply lrb pointer plus elementindex rrb
+64 use star operator array: b [n] access multiply lrb bpointer plus n rrb
+64 element [n] access multiply lrb aptr plus n rrb
+64 reference pointer refer pointers relative first pointer lrb pointer plus 1 pointer plus 2 etc rrb
+64 first pointer variable must reference first entity in array variable in array access refer first entity s address plus offset e ptrtoarray equal array nthentity equal multiply lrb ptrtoarray plus n rrb
+64 address [b 3] bptr plus 3 array treat pointer
+64 [i] equal multiply lrb plus rrb
+64 address b [3] bptr plus 3
+64 multiply lrb arrayname plus index rrb
+64 multidimensional array
+65 number bytes array during program compilation
+65 sizeof operator return size operand
+65 return size operand in bytes
+65 return size array in bytes
+65 return size array in bytes during program compilation
+65 return size argument pass in
+65 byte size date store ina variable
+65 sizeof return size operand in bytes
+65 amount memory require specific parameter ints double
+65 sizeof return size operand in bytes
+65 size information in bits
+65 size string
+65 sizeof return size in bytes respective object
+65 sizeof operator return total number bytes operand
+65 size operand in bytes use variable name type name constant value
+65 size in bytes need store object in memory
+65 size list object
+65 sizeof operator return size in bytes array parameter
+65 size operand in bytes
+65 return size in bytes specify data
+65 return size operand in memory check compilertime
+65 return size operand in bytes
+65 total number bytes object
+65 total number bytes in array
+65 return size in bytes certain variable type
+65 yield size in bytes operand expression parenthesized name type
+66 pass value reference
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 four different ways: nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 passbyvalue passbyreference
+66 pass pointer pointer pass reference pointer
+66 address address bptr directly bptr
+66 nonconstant pointer nonconstant data constant pointer nonconstant data nonconstant pointer constant data constant pointer constant data
+66 argument reference
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 pass value pass reference reference pointer arguments
+66 pass pointer lrb star rrb memory address lrb address rrb
+66 nonconst imply nonconst const imply nonconst nonconst imply const const imply const
+66 nonconstant pointer nonconstant data constant pointer nonconstant data nonconstant pointer constant data constant point constant data
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer constant data constant pointer nonconstant data
+66 pass reference reference arguments function lrb int address rrb pass reference pointer arguments function lrb int star rrb
+66 pass reference dereference in function
+66 1 nonconstant pointer nonconstant data delcaration no include const qualifier 2 nonconstant pointer constant data provide performance passbyreference protection passbyvalue 3 constant pointer nonconstant data 4 constant pointer constant date
+66 constant pointer constant data constant pointer nonconstant data nonconstant pointer constant data nonconstant pointer nonconstant data
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 pointers may pass function value reference reference arguments reference pointer arguments
+66 four way pass pointer function 1 non constant pointer non constant data 2 non constant pointer constant data 3 constant pointer non constant data 4 constant pointer constant data
+66 nonconstant pointer nonconstant data nonconstant pointer constant data constant pointer nonconstant data constant pointer constant data
+66 pass value pass reference reference arguments pass reference pointer arguments
+66 pass either pointer cant move data point cant change both neither
+66 two ways pass something value reference use dot pointer operators within receive function use address operator inside pass function
+67 pointer point memory address begin part function pretty much pointer point function call execute
+67 function pointer pointer contain address function in memory
+67 function pointers pointers e variables point address function
+67 pointer function address code function reside pass function return function store in array assign pointers
+67 contain address function in memory
+67 dereferenced function pointer call function zero arguments
+67 pointer function
+67 pointer function contain address function use call function
+67 function pointers pointers e variables point address function
+67 pointer function contain address function
+67 pointer contain address function
+67 function pointer pointer function use in substitution call function
+67 point memory address function kind like break branch off tree object hit object
+67 pointers contain address function pass return function well store in array assign function pointers
+67 pointer variables point function address
+67 contain address function in memory
+67 pointer point function allow pass function parameter another function
+67 pointers contain address function
+67 pointer contain address function
+67 pointer contain address function definition
+67 function pointer contain memory address function use function pointer function pass return another function function pointers also store in array
+67 function pointer pointer function function pointer contain address function
+67 pointer contain address function in memory
+67 contain address function in memory
+67 pointer point address function
+67 dereferenced function pointer invoke function pass zero arguments like normal function in program languages like c function pointers use simplify code replace large switch statements
+71 consist sequence nod contain number data field one two link call pointers point next previous nod
+71 link list list in item in list point next item in list
+71 link list chain structs record call nod ability add delete retrieve items
+71 list elements nod link one another element point next element
+71 sequence nod contain data field lrb specify programmer rrb pointer lrb s rrb point next previous nod
+71 list nod node contain data member also pointer next node
+71 list items link together item link successor
+71 link list chain nod store single piece data pointer variables point nod in list
+71 one fundamental data structure use implement data structure consist sequence nod contain arbitrary data field one two reference lrb link rrb point next previous nod
+71 data structure in sequence nod contain arbitrary data field one two reference lrb link rrb point next previous nod
+71 information in memory link next piece information link forward not backwards
+71 link list data structure not necessarily in same contiguous memory space lrb array rrb hold data type point next data item in list in doubly link list also previous item
+71 link list data structure contain one data elements pointer next node
+71 series nod structure value pointer point similar node not quite array still carry list value
+71 data type contain pointer least next element in list
+71 component contain node data item pointer next item in list
+71 link list chain structs record call nod node least two members one point next item node in list
+71 array base list use implicit order scheme often use pointers
+71 series structure contain data items pointer link structure next structure
+71 link list collection object contain least one data member pointer next object in list lrb previous object in case doubly link list rrb
+71 link list data structure build structure pointers form chain nod pointers represent link chain hold entire thing together
+71 list pointers link 2 every pointer point next pointer next element
+71 linear collection selfreferential nod connect pointers
+71 items data structure link use pointers
+71 list object object contain link next item in list
+71 link list one fundamental data structure use implement data structure consist sequence nod contain arbitrary data field one two reference lrb link rrb point next previous nod
+72 elements insert link list point not need resize unlike array need
+72 unlike array link list insert delete without shift data change in size easily
+72 array size fix link not fix
+72 insert delete items pointerbased link list without shift data
+72 array must define size elements add link list o define size
+72 principal benefit link list over conventional array order link items may different order data items store in memory disk allow list items traverse in different order link list selfreferential datatype contain pointer link another datum same type link list permit insertion removal nod point in list in constant time
+72 expand need not predetermine size
+72 link list able grow shrink in size need
+72 link list able grow in size need not require shift items during insertions deletions
+72 link list not fix in size not require shift items during insertions deletions
+72 no limit many create array hold give amount information
+72 link list constant time insertion deletion
+72 link list grow dynamically items not require shift greater awesome factor than array
+72 link list indefinite size add take away easily little difficulty in shift data
+72 nearly infinite size limit system memory also ability expand size dynamically
+72 grow need while array fix size
+72 not fix size link list able grow need time access array base list take contant amount time linkedbase like depend
+72 link list grow shrink need array fix size
+72 memory allocate fly items
+72 link list may increase in size need while array s size set create
+72 array fix size link list able grow in size need
+72 resizeable
+72 link list not set size grow shrink need
+72 link list abe grow need new size
+72 size not fix easier sort no shift easier insert items list
+72 size array restrict declaration insertion deletion value in middle array not possible
+73 array retrieve memory place in list while in link list traverse through individual node
+73 array require less memory than link list allow direct access specify item also insertion deletion in array not require list traversal
+73 access particular element fast location in memory determine mathematically access directly
+73 array good random access good sequential access both in constant time link list linear random access array faster in case
+73 array capable access part array base index link list must traverse begin end data access adjacent previous next nod
+73 hand array allow random access while link list allow sequential access elements singlylinked list in fact traverse in one direction
+73 keep head list
+73 array easier implement require less memory
+73 link list increase complexity implementation link list array keep grow lead increase in memory
+73 not iterate through entire list access elements
+73 go forward backwards point piece data give time link list point next piece data
+73 take less memory contiguously store
+73 array fix less error prone
+73 array set list value mean pick spot in array [7] pick 8th spot in array link list keep track pointers want take specific nod out otherwise must traverse entire list
+73 direct access elements speed link list increase search time access elements even list sort lrb like get last element without pointer directly end list rrb
+73 array items access directly equal access time
+73 arraybases implementations require less memory than pointerbases one
+73 access specific elements quickly in array in link list must traverse list get access same element
+73 link list allow sequential access array allow random access
+73 entitiy in array may access immediately link list must traverse one item time object point adjacent object
+73 array base implementation require less memory than line list base implementation
+73 arraybased implementations require less memory than pointerbased ones
+73 go array go one direction while traverse link list
+73 array allow random access item cotained time link list must go through toget desire item
+73 in array direct access element in link list traverse list element need
+73 array size fix link not fix data also access quicker in array list also memory requirement less no pointers require array random access less overheads compare link list sequential access much overheads no cache memory support hand array allow random access while link list allow sequential access elements singlylinked list in fact traverse in one direction
+74 pass reference want function change pointer
+74 link list pass arguments function pass head pointer list reference
+74 minus function access link list s head pointer access entire list pass head ponter function reference argument
+74 use node
+74 passbyreference
+74 send pointer object linkedlist class
+74 pass pointer head
+74 pass head pointer link list function give function access nod link list
+74 pass head pointer function since access entire list
+74 pass head pointer function reference argument
+74 not answer
+74 pass pointer link list object
+74 link list object contain head through elements accessible
+74 head list take head address traverse in
+74 pointer node
+74 method access link list s head pointer access entire list
+74 function access link list s head pointer access entire list pass head pointer function reference argument
+74 head pointer pass function reference argument
+74 pointer first element pass function
+74 link list pass reference specificly head pointer
+74 pass head pointer function reference argument
+74 refrenece
+74 pass head pointer go through list need inside function
+74 link list pass use pointers
+74 head object pass function
+74 link list permit insertion removal nod point in list in constant time [1] not allow random access
+75 pass reference want function change pointer
+75 in circular link list every node successor mean last node s successor head first node
+75 circular link list link list link items in continuous circle allow full list traverse start item in list fix head tail not require
+75 in circular link list last node point first node
+75 circular link list end element point head thus make circle basic link list nothing point head last element point null
+75 circular link list s last node point begin list while standard link list point null
+75 last item in list point head
+75 in circular link list last node point back first node no null
+75 circular link list useful describe naturally circular structure advantage regular structure able traverse list start point
+75 circular link list last node point back head link list
+75 basic link list point null end circular point head end
+75 in circular link list last item point first item
+75 circular link list s tail point head basic link list s tail point null
+75 basic link list end null value circular link list pointer end begin
+75 determine end list in basic link list last element link null pointer while circular link list link head element end
+75 no node in circular link list contain null last node point pack node within list
+75 difference between circular link list basic link list circular link list last node reference first node every node in circular link list successor no node in circular link list contain null
+75 no node in circular link list contain null
+75 in circular link list last element point head list
+75 in regular link list last object point null in circular link list last object point back begin list
+75 in circular link list node successor no node contain null while in basic link list last node contain null
+75 in circular link list last element point first
+75 circular link list not last element instead last item point head list
+75 in circular link list last node contain pointer go back first node in basic link list last node contain null pointer
+75 in circular link list last object link back first object
+75 in case non circular link list last node list u want move first u need go one step back till u reach first in circular link list last first need make one move in single link list u move in one direction in double link list u move in direction back forward forward
+76 traverse in both directions
+76 in doubly link list delete node without traverse list
+76 doublylinked list allow delete node without traverse list establish trail pointer
+76 doubly link list allow traverse list in either direction node point successor well predecessor
+76 doublylinked list traverse backwards though still cannot access data point in list shorter traverse backwards
+76 traverse list front back back front
+76 traverse list in reverse
+76 doubly link list traverse in both directions
+76 doublelinked list require space per node elementary operations expensive often easier manipulate allow sequential access list in both directions
+76 traverse forward backwards through nod
+76 point both forward backwards
+76 go backwards in link list access previous data easier without keep track previous item
+76 doubly link list allow backward movement through nod
+76 double pointers node point forward backwards make little easer get need
+76 ability backtrack through list
+76 move forward backwards in doublelinked list basic move forward
+76 advantage node point bothe predecessor successor no special case insertion deletion
+76 node point both predecessor successor
+76 doubly link list pointers in both directions allow access back front well front back
+76 doubly link list traverse either direction while normal link list traverse start finish
+76 double link list often easier manipulate allow sequential access list in both direction
+76 give node in list one navigate easily in either direction
+76 traverse list both forward backwards
+76 doubly link list allow back node rather than go through entire list again
+76 give faster time operations insertion deletion
+76 primary disadvantage doubly link list lrb 1 rrb node require extra pointer require space lrb 2 rrb insertion deletion node take bite longer lrb pointer operations rrb
+77 take twice much memory node
+77 in doubly link list pointers set mechanics insert delete difficult also special case begin end list complicate
+77 pointers set mechanics insert delete doubly link list bite involve than singly link list
+77 insertion deletion doubly link list involve than singly link list leave room error complex algorithms
+77 need memory store previous pointers
+77 node in doubly link list take memory than node in singly link list
+77 keep consider predecessor successor connections insert delete
+77 node require extra node require memory difficult insert remove individual nod
+77 doublelinked list require space per node elementary operations expensive
+77 difficult delete create nod
+77 use memory make 2 pointers update 2 pointers time change list
+77 nod take memory
+77 node require extra pointer lrb space requirements increase rrb insertion deletion node take longer lrb pointer operations rrb
+77 little confuse special case end begin become difficult
+77 increase action add remove elements link list
+77 insert delete in doublelinked list involve special case begin end
+77 main disadvanate hard remove items in list
+77 node require extra pointer take storage insertions deletions require pointer operations
+77 in doubly link list twice many pointers element therefore memory use
+77 process add remove nod in doubly link list complex than in basic link list
+77 double link list require space per node elementary operation expensive
+77 1each node require extra pointer require space 2the insertion deletion node take bite longer pointer operations
+77 take twice storage need
+77 use pointers enable backward movement take memory pointers make slightly work add remove node list
+77 increase memory requirements slightly complicate modify elements in list
+77 not answer
+81 data structure store items access in lastin firstout order implement in three ways
+81 stack abstract data type base principle last element insert stack first element remove stack
+81 store set elements in particular order
+81 adt whose recently insert item first item remove retrieve property call last in first out lrb lifo rrb items enter leave stack top
+81 list in top lrb last item add rrb modify
+81 stack data structure use push insert item pop remove ad item stack use last in first out structure insert remove items
+81 data structure store data use lifo
+81 stack similar array not allow random access stack allow user retrieve last item put stack last in fist out
+81 store set elements in particular order stack principle: last in first out means: last element insert first one remove
+81 stack adt store set elements in particular order
+81 data type store set elements in certain order last in first out
+81 data structure move elements in last in first out
+81 store set elements in last in first out order
+81 list add remove top
+81 stack abstract data type operate last in first out basis store list object not support lrb least in pure stack rrb peek element without remove rest stack first
+81 store set elements in particular order base principle last in first out lrb lifo rrb
+81 object list store elements in particular order first object insert bottom last object top first object in last object out
+81 adt store set elements in particular order stack principles lifo last item insert in list first out
+81 abstract data type store set elements in particular order
+81 collection data execute in order last in first out
+81 stack data structure allow data members add remove one time in order last in first out structure
+81 store set element in particular order
+81 list element first one remove last one insert
+81 data structure put elements in list allow user access last element
+81 finite order list zero elements
+81 storage container hold object in certain order lifo priority
+81 stack type container adaptors specifically design operate in lifo context lrb lastin firstout rrb elements insert extract end container
+82 push pop two main function define in stack
+82 push insert element top stack pop remove last insert element stack
+82 push pop
+82 pop function push function
+82 push pop
+82 push lrb insert item rrb pop lrb remove item rrb
+82 add new item remove item
+82 push lrb insert rrb pop lrb retrieve rrb
+82 push pop
+82 push pop
+82 pop push
+82 push lrb add element rrb pop lrb remove element rrb
+82 push pop
+82 pop push
+82 push lrb add item stack rrb pop lrb pull last item add array rrb
+82 pop push
+82 push pop push put object list pop take last object off
+82 push pop two main function stack
+82 push pop
+82 push add element stack pop take element off stack
+82 push pop add remove data stack respectively
+82 push pop
+82 pop remove item push insert element
+82 pop push
+82 pop push
+82 push add item top stack pop remove top item stack
+82 push pop push add give node top stack leave previous nod below pop remove return current top node stack
+83 array fix size add delete elements end array use pointer keep track last element add time add delete element update pointer check equal max size array
+83 implement array predefined size bottom stack element store element 0 last element store in array top increment top element push decrement item pop
+83 use dynamically allocate array must provide destructor copy constructor
+83 create int value store head stack increment top one element push decrement after pop
+83 use pointer always point end array list push pop modifications
+83 use array implement stack add element add end array remove items end array also
+83 predetermine size stack would array type not grow
+83 declare variable point last item in array increase lrb plus plus rrb items push onto stack decrease lrb rrb item pop off top
+83 allocate array size bottom stack element store element last index in array top increment top one element push decrement after pop
+83 allocate predefined array bottom element store element 0 last index head
+83 make array make bottom spot 0 make last spot in array top increment top ad
+83 treat begin array begin stack
+83 use index value call top keep track last element in array
+83 create array implement pointers point next list item stack
+83 efficiency easiest implement leave right method right item one retrieve pop perform push place object furthest element
+83 create array base predefined size n cannot elements than n bottom stack element store element 0 last index in array top increment top one element push decrement after pop
+83 element add array last element add end element pop take last element off array
+83 allocate array predefined size bottom stack element store element 0 last index in array top increment top one element push
+83 create array size n n plus plus one element push n one element pop
+83 define array keep track pointer last element items add
+83 allocate array predetermine size integer track top element stack bottom member stack go in element 0 array element push top track integer incremented
+83 allocate array size bottom stack element store element 0
+83 store stack in array keep in mind first element
+83 keep track last item enter array not allow user access part array
+83 use array push one int time stack until get end array
+83 max number elements allocate array number elements store elements start 0 keep track many elements currently in list
+83 stack usually hold bunch items same type therefore u use array hold content stack integer top hold index element top stack u choose array size sequence operations use u decide data type need stack data structure
+84 add element end link list update pointer call top time modify list
+84 implement list in head pointer point element recently push onto list pop function change head pointer point next last element in list remove element head pointer previously point
+84 implementation stack use single link list operations perform stack 1 rrb push lrb rrb : function insertion lrb push rrb element stack similar insertion element end single link list see function insert end lrb rrb in program operations single link list 2 rrb pop lrb rrb : function deletion lrb pop rrb element stack similar deletion element end single link list see function delete end lrb rrb in program operations single link list 3 rrb stack display lrb rrb : function display elements stack
+84 use nod keep track head stack use push lrb rrb pop lrb rrb create stack need
+84 use head top stack modify head push pop push would add new item head pop would remove item head
+84 implement stack list change pointer first element list new item move pointer top stack next item remove item
+84 dynamicly create space stack grow stack long need
+84 declare pointer point head link list add remove nod begin list
+84 create link list add element top stack push delete element pop
+84 singlylinked list already lot like stack depend way address move head
+84 make list make bottom head add end make end top
+84 use add function list begin stack remove pop
+84 use head top push pop nod head
+84 create node base list point next list item
+84 head list last item add push add new head
+84 create new list pop elements in stack need push stack remove items unless stack empty top item head list last item end
+84 add element end list link element before pop element take last element in list set previous one end list
+84 implement stack use array link list use pointers point element lrb node rrb next element in stack use pointers stack become link list
+84 elements insert remove head list no header node current pointer
+84 use link list keep track pointer point first item
+84 singly link list already easily use lifo data storage members stack simply push pop list first item in last out
+84 use pointer
+84 top first pointer
+84 keep pointer point last element enter front array move pointer back delete element
+84 use link list push node contain int stack until get end link list
+84 link list push add item onto begin list pop remove first element in list
+84 use link list one way implement stack handle essentially number elements usually convenient put data structure in own module thus want create file stack h stack c
+85 list base prefer not constrain fix size fall take memory node least two part item pointer
+85 list base prefer stack create not limit in size increase decrease in size need
+85 arraybased prevent push operation add item stack stack s size limit size array reach listbase much simpler write not fix size
+85 array base faster easier keep track less complexity in code
+85 listbased not use fix size like array would
+85 usually link list not fix size know want set max size array better
+85 listbased allow flexablity size stack
+85 link list prefer implement stack not limit set number elements
+85 listbased implementation prefer since big o lrb 1 rrb efficient
+85 link list implementation prefer way list move along without iteration
+85 list size not determine
+85 link list take less memory scalable
+85 listbased list grow dynamically head node easily accessible
+85 list base nod easier work traverse easier
+85 list base lower process overhead nearly unlimited space due link list design
+85 listbased grow shrink dynamically unlike fix size array
+85 list base array become full list grow shrink need
+85 listbases implentation prefer one main reason list no fix size
+85 array prefer link list implementation require extra space store pointers space allocate dynamically in listbased take time
+85 link list prefer make push elements easier no limit than memory number elements
+85 listbased implementation much easier implement allow stack scale necessary therefore prefer implementation
+85 array base implementation require less memory than list base inceasing size resizeable array waste storage time
+85 in array base stack would need predetermine size in list increase decrease size however want
+85 listbased implementation prefer list flexible than array
+85 would think list base would better change pointers nod add remove things stack
+85 list base much flexible easier use doesnt need max size define make
+85 array base list prefer hold size long u specify
+86 convert post fix expressions still follow order precedence operators
+86 first convert postfix expressions evaluate
+86 computers cannot evaulate infix expressions must first convert infix postfix expression evaluate
+86 use parentheses order in expression
+86 in postfix notation
+86 computers usually convert infix expressions post fix expression evaluate use stack
+86 convert postfix
+86 infix expressions interpret postfix expressions implement stack
+86 first convert equivalent postfix expression read computer
+86 computer translate infix expression postfix expression solve
+86 in postfix format
+86 use parenthisis stack determine evaluations need make first
+86 throw variables postfix expression operands onto parentheses regulate stack until end parentheses enough variables operate encounter
+86 pass function lead term
+86 hard time explain show infix evaluate instead start infix expression like lrb lrb lrb 5 plus 2 rrb multiply 5 rrb plus lrb 400 divide lrb 2 plus 3 rrb rrb rrb push items until get rrb happen perform operations until reach lrb complete now lrb lrb 7 multiply 5 rrb plus lrb 400 divide lrb 2 plus 3 rrb rrb rrb now expression evaluate perform last step again lrb 35 plus lrb 400 divide lrb 2 plus 3 rrb rrb rrb now stack repeat agian lrb 35 plus lrb 400 divide 5 rrb rrb now stack after repeat lrb 35 plus 80 rrb now stack repeat again 115 now stack return
+86 infix expression convert postfix form
+86 convert postfix expressions put operations in stack
+86 computer convert infix expression postfix form evaluate postfix expression
+86 infix expressions convert postfix expressions before evaluate computer operands stay in same order operators always follow operands
+86 infix expressions pointers evaluate reference memory location
+86 computers convert infix expressions postfix form before evaluation
+86 convert infix expressions postfix expression evaluate postfix expression
+86 operand enter computer push onto stack operator enter computer apply top two operands stack pop operands stack push result operation onto stack
+86 computers convert infix expression postfix expression push number onto stack pop out need
+86 infix expressions convert postfix lrb e 3 plus 2 change 32 plus rrb
+86 transform postfix expressions evaluate stack
+86 write arithmetic expressions call infix notation binary operator lrb like plus rrb write in between two operands lrb in plus b rrb two alternative form notation use in certain situations one prefix notation in operator write before operands in prefix notation sum b write plus b notation use write function call in mathematics computer science also use in lisp scheme program languages in postfix notation operator write after operands sum b write b plus lrb may see reverse polish notation rrb postfix notation form conceptual basis way arithmetic expressions evaluate computer one important characteristic both postfix prefix notations unambiguous no parentheses need indicate order operations
+87 isemptry lrb rrb determine stack full not pop lrb rrb remove top element not look search lrb rrb compare element stack data look
+87 would keep use peek gettop see top element pop top element until peek gettop provide element look
+87 push add give node top stack leave previous nod below pop remove return current top node stack
+87 use link list stack would need temp stack retain value would use pop lrb rrb function pop off element compare not element look push lrb rrb temp stack repeat until element find find pop lrb rrb off temp stack back onto regular stack complete stack again
+87 pop item off top until find look stack end empty never find item not exist in stack may also necessary save pop value in case want recreate stack
+87 stack implement use array could simply search array item stack implement use link list would pop value off stack until either value find stack empty would items put back list
+87 need pop item stack compare item item find no items need remove
+87 pop element one stack check see desire element not push onto another stack finish pop items second stack push back onto first stack lrb ensure order elements maintain rrb
+87 basically pop stack until find give element
+87 iterate through stack check number against current element
+87 pop push
+87 pop elements off stack until find element push pop elements back stack
+87 keep pop nod store in alternate stack until give element find pop give element push previously pop nod back onto stack
+87 either traverse entire list pop give part create pointer system automatically point
+87 depend type stack true stack haft pop elements stack until find element want after need push elements remove back in stack in order remove java style stack peek function return element want instead require perform excessive action require true stack
+87 top item! equal give element pop stack repeat until item find stack empty
+87 could traverse through list array find element
+87 need pop opertation go throught stack find element
+87 createstack push isempty pop boolean return value
+87 would traverse stack pop element search
+87 pop element off stack lrb another stack storage rrb until desire element find
+87 pop operation
+87 pop elements push back
+87 function keep track elements pop function put pop elements backinto function
+87 would pop element compare look push back stack not lose
+87 would need perform search through list elements lrb dont really understand question ask not clear? rrb
+87 stackpush lrb rrb stackpop lrb rrb stackisempty lrb rrb
+91 data structure in c plus plus collection data keep in order first in first out
+91 queue list object in particular order read one time start first follow second
+91 queue abstract data structure in operations perform both end give queue first in first out behavior
+91 queue store set elements in particular order principle operation fifo lrb first in first out rrb mean first element insert first one remove
+91 adt whose first insert item first item remove use fifo idea items enter queue back leave front
+91 last in last out architecture work same way line bank would work person wait longest get serve first
+91 queue data structure store elements in first in first out order
+91 wait list items operation in fifo lrb first in first out rrb order
+91 queue similar array except data access sequentially rather than random unlike stack queue follow fifo first in first out
+91 particular kind collection in entities in collection keep in order principal lrb rrb operations collection addition entities rear terminal position removal entities front terminal position first in first out lrb fifo method rrb
+91 like link list first in first out
+91 queue fifo data structure
+91 queue first in first out data structure
+91 like stack use link list stack little differently fifo first thing enqueued first thing dequeued
+91 first in first out abstract data type use store value
+91 store set elements in particular order first in first out principle
+91 object store elements in order follow first in first out first element add first one come off
+91 quese list store set elements in particular order stack principle in case first in first out first element insert first element remove
+91 finite order list zero elements base upon first in first out
+91 data structure perform operations in order first in first out fifo
+91 queue first in first out data structure first element add also first remove
+91 queue buffer store element in particular order
+91 store set elements first element in first element remove
+91 data structure remove nod head add nod tail
+91 queue list things follow first in first out behavior
+91 queue storage container hold object in first in first out priority
+91 queue another data structure physical analogy queue line bank go bank customers go rear lrb end rrb line customers come off line lrb e service rrb front line
+92 enqueue add data queue dequeue delete data queue
+92 enqueue insert specify element head specify queue dequeue remove specify element queue
+92 two main function enqueue insert item back queue dequeue remove item front queue
+92 two main function enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enqueue insert queue dequeue remove element
+92 remove item add first add items back
+92 two main function queue enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enque lrb data rrb deque lrb rrb
+92 enqueue dequeue
+92 enqueue dequeue
+92 two function enqueue dequeue
+92 enqueue dequeue
+92 enqueue add item queue dequeue take first item out queue
+92 enqueue dequeue add remove elements queue
+92 enqueue dequeue
+92 dequeue enqueue
+92 enqueue dequeue
+92 enqueue dequeue
+92 enqueue dequeue
+92 rear front
+93 make use front pointer tail pointer tail pointer reach end array get reset front array two pointers equal queue either full one element
+93 create array max size queue adjust items make follow fifo procedure
+93 implement array add items end array remove items begin array
+93 applications in fixedsized queue not present problem use array represent queue
+93 keep track front back array increase decrease elements inside array
+93 declare size array special conditional statements lrb pointers rrb make sure reuse array say array 20 elements load 18 dequeue 3 enqueue 4 elements want loop back index 0 continue process save resources
+93 could use first element list remove point insert end f would shift elements time remove item unless make array circular
+93 utilize index front back front 0 add items back index incremented
+93 declare two variables front rear use denote elements in array access increment rear whenever data enqueued end increment front whenever data dequeued
+93 array fix size queue maximum n elements
+93 make array size add front delete back keep track two know full add subtract
+93 use begin array removal point queue lrb begin queue rrb ith element end queue
+93 add in data first element last take out data first element last
+93 take array put in queue stack traverse list keep track top bottom
+93 create fix array size 2 integers point begin end que special case know que empty full
+93 keep track front rear index either: 1 rrb dequeue items shift array leave 2 rrb use wrap configuration
+93 add items fix size array pull items out call start index increase start index call again now next index element in array
+93 use array implement queue element item 0 should top element in array every time element insert items in array push back one space top element always remove first
+93 fix size array max n elements need keep track front rear array
+93 keep track front item rear item circular array use modulo function
+93 use array queue size array allocate limit size queue array base queue class must keep track both front back queue may need wrap around array
+93 pointer base implementation queue could use linear link list two external pointers one front one back
+93 remove element shift elements one space back
+93 head pointer point first least current data enter tail point current data enter method must create tail pointer not leave array
+93 array type queue fix length
+93 storage class array keep track index first last item in array wrap around end array full
+93 boolean isfullq lrb queue rrb :: equal rear equal equal max queue size1
+94 list unlimited elements in push node onto end list pop one in front
+94 theoretically could two ways one use process power memory no larger than queue ever full use almost infinite memory practical method would two place items in array remove item in position one array after shift array add another element require option use infinite memory use long term queue job schedule go nonstop extend periods implement array add items read item one raise counter value two ecetera continue add elements array downside method after use element one still in memory im crazy know
+94 implement list in tail pointer point item recently insert onto back list head pointer point item least recently insert onto list also items remove front list add back list
+94 use list represent items in queue
+94 pointer last element in list use enqueue insert items link first last elements together dequeue list
+94 enqueue end link list dequeue items begin lrb head rrb list
+94 use first element in list remove point queue insert items end list
+94 utilize front pointer back pointer front poiner back pointer point first item queue add items front remain same back poiner next point new item new item assign become new back pointer
+94 implement link list allow nod add tail retrieve head
+94 check list empty add elements list
+94 make link list add front delete back keep track both
+94 make head list begin queue last list item insertion point queue
+94 throw in data head take out tail
+94 create list nod head top pointer function basically same substitute pop push enqueue dequeue
+94 fairly easy singly link list pointer head tail hte list deque first item in que create temp pointer next element delete head make head temporary pointer enque new item use pointer end list add new item next item tail make tail next item current tail
+94 use link list 2 pointers one front one back long back! equal front queue not empty
+94 create node input data continue add list dequeueing get first elements data set next element in list new first element
+94 link list stack principles queue s top element element always remove first must use nod contain element pointer top element also could call head pointer
+94 link list check front rear keep enqueueing elements until front equal rear 1
+94 queue implement in list keep track two pointers head tail
+94 element queue allocate in nod link list new elements should add head list dequeued element come off tail
+94 implement operation dequeue lrb rrb list operation remove lrb 1 rrb operation getfront lrb queuefront rrb list operation retrieve lrb 1 queuefront rrb
+94 remove first element reference second element new head list
+94 create add nod end list remove nod begin list
+94 would list add back pointer program know end
+94 queue storage class list enqueue add item end list dequeue return first item in list
+94 temp imply next equal null lrb front rrb lrb rear rrb imply next equal temp else front equal temp rear equal temp
+95 list base run time order n also not limit size like array
+95 link list base not store items linearly in memory instead individual block
+95 list base prefer no size restrictions
+95 listbased implementation would prefer array slightly complicate would need keep track both front rear
+95 listbased arraybased queue way complicate things extent
+95 listbased less code no size limitation declaration mean also efficient versatile
+95 list base prefer not set size insertion deletion do quickly keep pointers first element last
+95 list base prefer space issue array base due rightward drift fix rightward drift require constant shift queue data
+95 similar stack link list preferable queue size adjust
+95 arraybased prefer keep track array count
+95 list size not define
+95 listbased enqueue lrb dequeue depend upon implementation rrb would need shift elements another space array cause horrid time complexity large data set modify pointers in list constant time complexity
+95 queue s best list especially tail keep track list dynamically grow without lose track head tail
+95 list base much simpler run time better
+95 list base lessen memory usage initially increase limit large que become
+95 listbased not fix size
+95 list dynamic no size need declare
+95 list base implementatoin best use pointers keep track front back pointers easier maintain use memory
+95 list base dynamically grow fewer restrictions
+95 list base prefer memory allocation not issue
+95 list base solutions prefer allow queue size
+95 think array base batter fix size list base flaxible not worry size
+95 list base dont need shift elements like in array base queue
+95 listbased memory not constrict
+95 list base array base fix size cannot add remove easily
+95 listbased array easier scalable
+95 list base becuase arrary base arrary size need predefined cannot change dynamically
+96 push
+96 push insert something top stack
+96 stack operation correspond enqueue in queue push operation
+96 push in stack operation correspond enqueue operation in queue operations insert new item one end lrb top back respectively rrb adt
+96 stack operation almost opposite enqueue operation
+96 push equal enqueue pop equal dequeue
+96 push
+96 not sure question mean use stack push operation enqueue operation detect palindromes
+96 enqueue queue equivalent push dequeue queue equivalent pop
+96 push operation
+96 push
+96 push
+96 push
+96 push
+96 would push operation put item end list
+96 push
+96 push
+96 push method in stack operations
+96 push
+96 enqueue correspond push dequeue correspond pop
+96 push correspond enqueue both similarly place new elements stack queue
+96 fifo: first in first out
+96 push
+96 push
+96 push
+96 push
+96 push
+97 stack print job might higher priority than others easily insert front list anywhere between
+97 queue otherwise things would never print
+97 queue appropriate schedule print job queue first in first out behavior
+97 queue better fifo than lifo lrb stack rrb
+97 queue course!
+97 queue person want print first should first serve
+97 queue guarantee job execute in order come in
+97 queue
+97 queue would preferable stack use schedule print job would print job in order send printer
+97 queue
+97 queue
+97 queue
+97 queue s appropriate printers usually first come first serve
+97 queue
+97 queue first in first out principles stack would last in last out could possibly not let first item add get remove in timely manner
+97 queue
+97 queue
+97 queue data structure appropriate schedule print job printer first job send printer first job print
+97 queue would not unfair first job finish last
+97 queue take job wait longest
+97 queue appropriate clients wait longest should first serve
+97 queue
+97 queue
+97 queue
+97 would say queue better first thing try print should first one come out printer lrb fifo rrb
+97 queue want job execute in order receive
+97 queue
+101 hierarchy nod sort in particular order node ancestor lrb except root rrb children lrb except leave rrb
+101 tree finite set one nod specially designate node call root remain nod partition disjoint set set tree
+101 tree finite set one nod that: specially designate node call root
+101 connect undirected graph without cycle
+101 data structure contain root internal nod external nod node reference another node mean pointers lrb passbyreference rrb root base tree no parent leaf node end tree point null
+101 tree series nod node link nod
+101 infinite set nod root descendants addition leaf
+101 set one nod hierarchically organize one special root node
+101 tree finite set one nod specially designate node call root
+101 one nod in hierarchy start root branch off like tree subtrees
+101 tree data structure nod link in hierarchical manner
+101 group data in parent child structure
+101 list number in list make compare value nod already in tree add appropriate spot list make nod leave right pointers
+101 tree branch data structure nod leave special node call root no parent node however like nod 2 nod link namely one right one leave
+101 organize data in nonlinear hierarchical form items than one successor partition root node subsets general subtrees root
+101 tree finite set one nod specially designate node call root remain nod partition n greater than equal 0 disjoint set t n plus 1 element set tree
+101 finite set nod start root terminate leave
+101 set data arrange pointers element many pointers no two pointers point same element
+101 tree data structure one data nod contain data node number attach child nod create branch structure tree name
+101 finite collection nod start element call root children children children until get leave last elements children
+101 nonlinear twodimensional data structure
+101 finite set one nod root node nod split tree lesser value than root
+101 finite number nod one root node node certain number children nod child also tree
+101 type data structure in element attach one elements directly beneath
+102 level generation in tree people not count root generation
+102 height tree in term level nod tree empty height 0 otherwise height equal maximum level nod
+102 height tree number nod longest path root leaf
+102 number nod longest path root tree leaf
+102 height equal number time must progress level tree reach leaf greatest distance root
+102 height tree length root furthest leaf
+102 height number generations lrb level rrb root
+102 height tree number level between root leaf farthest away
+102 depth furthest leaf
+102 number nod root leaf
+102 distance deepest leaf root
+102 number generations level tree
+102 intensity children say begin one node thats one height add two children node two children nod two children nod youre current height would 4
+102 number level tree like tree minimum depth 3 height 8 8 nod
+102 number nod longest path root leaf
+102 height tree number nod long path root leaf
+102 equal number level level between root node terminal nod
+102 number generations level tree
+102 height tree depth subtrees many layer deep
+102 number generations in tree
+102 number nod longest path root leaf
+102 number distinct level separation
+102 height tree many level nod
+102 connections between elements call branch tree often call invert tree normally draw root top
+103 leaf child parent node no children nod own
+103 leaf node no children
+103 node no children
+103 tree node no children
+103 end point tree node not children
+103 node no children
+103 new item tree child
+103 leaf node children terminate node
+103 node degree 0
+103 node degree 0
+103 leaf node no children
+103 last child branch
+103 last value in tree value no children attatched
+103 node no children
+103 node no children
+103 leaf node no children
+103 node degree 0 last node in tree furtherest away root
+103 endpoint tree contain no pointers pointers set null
+103 leaf node no children
+103 element in tree no children
+103 node no children
+103 leaf node no children nod
+103 leaf node no children
+103 elements bottom invert tree lrb no elements below rrb call leave
+104 tree data structure in do two children typical call leave right nod right node usually greater than leave node parent node
+104 binary tree set nod either empty partition root node one two subsets binary subtrees root node no than two children right leave child
+104 set nod either empty partition root node one two subsets binary subtrees root node two children leave child right child
+104 set zero nod partition root node two possibly empty set binary tree thus node in binary tree two children leave child right child
+104 tree in parent maximum 2 children
+104 tree node 2 children
+104 tree two children right subtree leave subtree
+104 binary tree tree in nod maximum two degrees two children
+104 binary tree tree data structure in node two children
+104 tree 2 joint leave right
+104 binary search tree tree also condition node may maximum 2 children
+104 tree parent max two children
+104 list number order compare compare number already add in tree
+104 tree node 2 children
+104 start root node branch off one two subsets binary subtrees root node two children leave child right child
+104 binary tree set nod either empty partition root node one two subsets binary subtrees root node two children leave child right child
+104 tree maximum 2 children per node
+104 tree elements contain two pointers
+104 binary tree two children node
+104 tree every parent two children
+104 tree every node no than two children
+104 binary tree special search tree node either 2 1 0 children
+104 binary tree special type tree node maximum 2 children
+104 binary tree special type invert tree in element two branch below
+105 tree data structure node value total order define value leave subtree contain value less than parent node vice versa right subtree
+105 binary search tree binary tree value in node n greater than value in every node in n s leave subtree less than every node in n s right subtree
+105 binary tree value in node n greater than value in every node in n s leave subtree less than value every node in n s right subtree
+105 binary tree search key in node n greater than search key in node in n s leave subtree less than search key in node in n s right subtree
+105 tree split base value make easy search one compare desire value root root greater than search leave side tree less than search right side same thing recursively
+105 tree node two nod node leave less than root node right greater than root
+105 special binary tree rule subtrees right smaller than node value subtrees leave larger than node value
+105 binary search tree similar binary tree implement organize data in specific way later search
+105 binary tree node value total order define value leave subtree node contain value less than node s value right subtree node contain value greater than equal node s value
+105 binary tree data organize in specific arangment
+105 binary search tree tree also condition node may maximum 2 children input data compare data in tree start root value smaller than root traverse leave larger traverse right until become leaf
+105 binary tree in data in order leave right
+105 tree set easily search number base location compare previous nod
+105 binary tree children order right side greater than current node leave less than equal current node
+105 binary tree value in node n greater than value in every node n s leave subtree less than every value in n s right subtree
+105 binary search tree finite set nod either empty consits root two disjoint binary tree call leave right subtrees
+105 similar binary tree key in nonempty leave subtree lrb right subtree rrb smaller lrb larger rrb than key in root subtree value in nod in leave subtree node less than node value value in nod in right subtree node greater than node value
+105 set number arrange link node contain two pointers elements node leave parent smaller node right larger recursive implementation imply traverse in order output would sort
+105 binary search tree special binary tree arrange every leave child node contain value less than parent every right child node contain value greater parent
+105 binary tree special organization data leave child element less than right child larger than
+105 tree in smaller value locate leave parent node larger value locate right parent node
+105 binary search tree special tree in node two children label leave child right child
+105 binary tree node unique key leave child node value less than node right child node higher value than node
+105 binary search tree fundamental data structure use construct abstract data structure set multisets associative array
+106 every node in binary tree first visit leave subtree lrb rrb visit parent node right subtree lrb rrb
+106 inorder traversal binary tree visit node binary tree in order accord data value
+106 traverse binary tree in inorder let visit nod in order accord data value
+106 use visit nod binary search tree in search key order
+106 lrb leave side tree rrb lrb root rrb lrb right side tree rrb
+106 print tree in order least greatest do go far leave tree possible print parent right tree move tree
+106 in order go leave root right
+106 inorder traversal binary tree retrieve start furthest leave hand leaf check s parent s right side sibling go level repeat until get root
+106 traverse leave subtree visit root traverse right subtree
+106 postorder
+106 in order start root right child leave child recursively
+106 leave child imply parent imply right child
+106 go lowest highest inside tree
+106 start display node furthest right node node right in recursive order
+106 travel leave right
+106 void inorder lrb ptnode ptr rrb lrb ptr rrb inorder lrb ptr imply leave rrb coutdata inorder lrb ptr imply right rrb
+106 root in middle leave subtree traverse first root finally right subtree
+106 traversal visit leave branch first parent node right branch recursively
+106 inorder traversal visit leave branch node lrb way deepest leftmost leaf rrb before visit node after visit entire leave branch node visit node s right branch follow same pattern leave child node right child
+106 leave middle right
+106 traverse nod leave visit root traverse nod right
+106 would go furthest leave node root right lrb leave right exist rrb would return one node previous same until reach root go furthest leave node right side root continue process
+106 mean traverse one subtree node look node before traverse subtree node
+106 level order traversal traversal method level visit successively start level 0 lrb root node rrb nod visit leave right level push pop methods
+107 runtime order log lrb n rrb n number nod in binary tree
+107 in binary search tree size n take log lrb n rrb comparisons find specify element
+107 n minus 1 divide 2 algorithm compare find element
+107 equivalent height tree
+107 log lrb n rrb
+107 o lrb log n rrb
+107 depend half tree level
+107 o lrb log n rrb in balance tree
+107 n minus 1
+107 log lrb n rrb
+107 o lrb nlog lrb n rrb rrb
+107 nlog lrb n rrb
+107 logn
+107 minimum log lrb n rrb log lrb 2 rrb maximum n search n number nod
+107 o lrb n rrb
+107 take 3 comparisons find element in binary search tree
+107 log lrb n rrb n equal number nod
+107 take many comparisons number level binary search tree compare one number level
+107 take one less comparisons than tree s height in bigo notation take o lrb log n rrb comparisons tree balance
+107 o lrb log n rrb
+107 log n comparisons
+107 lrb n power k rrb minus 1 k height tree
+107 take h comparisons h height tree
+107 2 way key comparison
+111 name class file parameters must take perform function also brief description class
+111 access specifiers function oftentimes constructor
+111 elements typically include in class definition function prototypes usually declare public data members use in class usually declare private
+111 class user define contain members data function keyword class use include bracket lrb rrb
+111 member function data members
+111 function variables use object define class
+111 data members function function definitions variables
+111 return type input parameters
+111 constructor data members methods
+111 function members member attribute in word class variables function
+111 elements include in class definition accessmodifier data type variables function signatures
+111 variables function prototypes
+111 public private variables initiations function include in class
+111 return value accept value
+111 class definition typically include class name class constructor lrb s rrb extra function class variables
+111 parameters type class name return type code execute in class
+111 data members class variables function
+111 constructor function variables native class
+111 function data members
+111 data members function definitions
+111 member function data members
+111 constructor function definitions
+111 class name data class definition function methods
+111 class definition include definitions class s constructor lrb s rrb public private function course also include class header necessary c libraries
+111 class name semicoln end defination private bublic follow :
+111 constructor private public variables function prototypes
+111 data variables function data members
+111 class definitions include name class type parameters
+111 class variables class function prototypes
+111 input address return type elements
+112 public private specifiers
+112 public private restrict
+112 access specifiers public private
+112 public private protect
+112 public private
+112 public: function variable use outside class private: function variable use class
+112 public private
+112 public private protect
+112 public private
+112 private public protect
+112 accessspecifiers use in c plus plus class definition private public
+112 public private
+112 static long unsigned
+112 private public protect friend
+112 c plus plus class definition may include accessspecifiers public private static
+112 local global localvariable function specific
+112 public private
+112 public protect private
+112 private public
+112 public access program private access class function no outside function call
+112 public private protect
+112 public private
+112 public private protect
+112 function data members give accessspecifications public private friend public access give function members not give specific access right
+112 data member data function access specifiers
+112 public private
+112 public private
+112 public private
+112 public access outside class private accessible inside class not inherit protect accessible inside class inherit
+112 public private protect
+113 ie gradebook mygradebook lrb rrb call upon class give name like show
+113 initialize name instance template form class name instance modify different class create
+113 not answer
+113 object initialize value give object define certain task
+113 initialize lrb dot rrb between constructor object create
+113 objectname classname lrb rrb call function class: objectname funciton lrb rrb
+113 object refer class constructor lrb s rrb initialize object base return type parameters pass compiler autocreate one one not provide
+113 classname objectname lrb input parameters rrb
+113 class call constructor
+113 constructors default not provide user programmer specify constructors
+113 object usually initialize begin program initialize usually in main function initialize after class s name
+113 want initialize variable certain value equal
+113 variables set give value 0 none give
+113 object initialize constructor call lrb whether one provide c plus plus assign default constructor rrb
+113 object initialize essentially copy correspond class complete own separate variables
+113 class gradebook would initialize in main function use constructor in gradebook class no constructor specify find c plus plus use default one no parameters gradebook mygradebook in bite code class gradebook initialize object mygradebook
+113 object initialize state classname first assign name object within object s lrb rrb place initialize
+113 initialize constructor
+113 value specify after declaration initialize anywhere between declaration correspond
+113 default constructor object in class no constructor specify use default system constructor
+113 initialize use same name class
+113 initialize value dependent compiler
+113 memory allocate in accordance type initialization input
+113 object assign space in memory create name give object point memory address object data reside
+113 use constructor
+113 give value
+113 declare class first name variable variables need put in constructor ex class myclass lrb x y rrb
+113 object initialize give object type name initial value
+113 initialize 0
+113 obj initialize variables call create within class e classname objectname etc
+114 name function parameters must receive in order perform return type
+114 function signature elements make unique variables call also suppose include program in
+114 function signature return type function name number type parameters
+114 function prototype contain function data members
+114 function signature declaration function include parameter type number parameters
+114 declaration function
+114 include name accept parameters return type
+114 return type input parameters
+114 contain function name paramaters return type not include
+114 return type function name parameter type
+114 function signature tell function parameters include function call
+114 function s name well return accept
+114 body function hold actual code
+114 function signature return type accept pass value type take
+114 function signature specify name input variables function
+114 function signature function s parameters type name function return type not part function signature
+114 name function accept return
+114 unique identifier function include input variables along function name exclude output type
+114 order number type data items include inside function parameters
+114 scope type parameters function give properties define against function
+114 name fuction return type parameters use
+114 function signature should include name function parameters body
+114 name function arguments pass function
+114 function signature use in function s prototype set object type take in parameters without name give object
+114 function name parameter call function signature
+114 fuction name parameters
+114 parameters need return type name function
+114 signature function include name function number type parameters return type
+114 uniquely separate overload function include return type parameter list function
+114 function sig class recognize main function rather specification
+115 function call upon self solve problem time call upon self split problem simplier form until reach base case simplest form problem
+115 function call perform opperation factorial recursive function
+115 not answer
+115 base case call upon until problem become smaller terminate
+115 function call run multiple time until base case reach
+115 function call untill reach base case
+115 function call time must get smaller eventually must converge base case otherwise start infinite loop
+115 function call until base case meet
+115 function call function call problem diminish
+115 function call perform certain task
+115 recursive function function call usually call base case base case not correct cause infinite loop
+115 function call in order solve problem
+115 function call over over until find simplest form solution base case
+115 recursive function function call repeatedly until base case achieve fundamental idea break one large problem series smaller similar problems
+115 recursive function typically simplify problem call until arrive base case recursively return solution
+115 recursive function function break large problem two smaller problems call solve smaller problems until base case terminate point reach base case definite answer call function no longer recur unwind back through function call determine answer original large problem
+115 function call loop base case loop exit
+115 function call until base case meet
+115 recursive function know solve base case recursive function call directly indirectly until base case reach
+115 function call use base case stop recursion
+115 function call eaach call get closer close base case
+115 function divide conquer problem base case eventually reach function call over over until base case satisfy
+115 function call in definition code
+115 recursive function solve problem repeatedly call initial problem break successively smaller part until much simpler base case reach solutions piece problem return step time
+115 invoke again ana again unless reach bas case
+115 function solve problem divide problem smaller problems call self again again until base case reach
+115 function call over over again till base case reach return back original function
+115 recursive function function during execution call over over until base case reach
+115 function call usually use split problem several smaller problems same type
+115 function call self till base case meet
+116 iteration performers series check loop
+116 alternative method use loop in program instead function call
+116 alternative solve problem use recursive function solve problem use iteration
+116 iteration would efficient repetition structure
+116 one use iteration use simple while loop
+116 iteration
+116 iteration while loop loop able accomplish same desire outcome may faster than recursion could also harder understand
+116 also solve problem iteratively
+116 iterative
+116 use iteration loop
+116 another alternative way solve problem instead use recursive function use iteration
+116 recursive function often solve use iterative function run faster often complicate
+116 iteration
+116 recursive function solve use iterative method
+116 many recursive solutions may also solve loop control statements while dowhile etc
+116 use iterative function repeat specify operation set operations until terminate point base case reach
+116 iteratively
+116 use iterative call
+116 iteration
+116 iteration alternative way solve problem
+116 use iterative solution instead
+116 use iterative solution while while loop
+116 alternative way solve problem could solve use recursion iteration
+116 problem solve recursively could solve iterative function iterative replacements recursive function may difficult program often lead efficient solutions problem
+116 iteration
+116 itteration like loop while loop while loop
+116 iteration use loop
+116 iterative function
+116 iteration
+116 alt way use function parameter in call function
+117 array declare static retain modify elements call upon again latest elements modify again array not declare static keep original elements
+117 static array specific size cannot grow also static array cannot access outside program create
+117 array declare static not create initialize function call destroy function terminate
+117 static initialize nonstatic cannot in c plus plus
+117 array declare static remain same throughout execution program
+117 static array call declare complier ignore static line come again
+117 static array available whole program array not static available within scope in declare passbyreference???
+117 static array predetermine size size cannot alter
+117 array declare static not change one not declare static alter
+117 array declare static retain value store in elements between function call not reinitialize default value
+117 array declare static cause anything not initialize set 0
+117 static array null character end array
+117 static array cannot change while normal array change
+117 array declare static access outside method declare without pass argument function in same class
+117 static array class scope allow remain array might recycle
+117 array static not change uninitialize call later unless explicitly act upon not terminate change across object automatic local array clear uninitialized call later outside specific scope
+117 one declare static one already define program know length array start nonstatic array declare assign later
+117 non static array must reinitialize every function call while static array initialize unless otherwise force
+117 static array retain modify value after function call automatic array reset initial value function end
+117 static array one keep value not initialize every time class function call data not lose function end
+117 array declare static use in function call in constant array static another way say const
+117 value in array not delcared static remain constant array declare const value within array manipulate
+117 data static array cannot change
+117 standard array terminate function call finish static array not remove memory parent function terminate leave available function lrb new instance original function rrb
+117 define static array doese not lose scope in locala function static array make programm scalable non static array lose scope inside local function
+117 static array call anywhere
+117 static array cannot change regular array change pass function manually
+117 static array edit throughout program while nonstatic array edit within give function
+117 array declare static allocate program begin run not free until program exit limit scope nonstatic array allocate free every time come in out scope
+117 static predetermine size cannot pass while vis versa
+118 type char [] null lrb n rrb element end
+118 variable char basically non command key keyboard press string collection letter number store together use later comonly string use word char use less opperations perform in useful way
+118 programmer must provide null terminate character in string character use type char [] must also ensure array large enough contain input string character null terminate character
+118 string character follow null statement type string example string s
+118 string contain word char contain phrase string character
+118 string variable single entinty letter combine one while in char [] letter assign memory value own variable assign e char [0] char [1]
+118 string contain null character end string make easily possible get string length char array virtually unlimited length therefore size must declare limit
+118 array character store null character end
+118 read string character also read in white space read character declare char read character no white space
+118 character array terminate whitespace include space string terminate encounter new line character
+118 difference string declare variable type char [] char include in array versus string character read variable
+118 array string read string literals mean anything within quote char array read string individual character
+118 character array call individual letter string array call word
+118 character array end line character end
+118 type char [] may contain null value last element type string not
+118 variable type string terminate character 0 end
+118 one type string extra string member 0 end
+118 string variable size function call available while character array usually static size
+118 string char [] add null value end string
+118 char array need end character signature make character separate string object in value user enter
+118 variable type char [] character store different memory address access easly in string character not easy able access character in string
+118 string pass array char individual character store manipulate although word store string variable store one word not individual character
+118 string variable change in size pass function value type char [] cannot change in size pass function reference
+118 string type string act single object individual char entities accessible through specific string class function char array less robust allow direct access specific char entities
+118 in array string store character lrb char [] rrb character string store in memory location array while string character one memory location
+118 array character one element last element terminate element null doesnt exist in variable type string
+118 string character specific variable type no extra data end string type char [] character null lrb 0 rrb
+118 string character null character value end string
+118 character put in char array also null terminate character add end 0
+118 string character read variable type string include
+119 example array n elements divide conquer split array equal halve repeat process until element
+119 divide coquer mean divide problem 2 plus problems solve merge back together final solution whole problem
+119 divide conquer paradigm divide problem smaller smaller portion easier solve
+119 divide elements recur conquer work in merge sort quicksort
+119 divide conquer divide program in half multiple time extent program whole easier work in group solve problem
+119 divide one larger string line value sepereate smallers line easily manipulate replace in order in should
+119 split problem smaller manageable part proceed address smaller problems
+119 dive conquer break large complex program small easy solve components
+119 divide larger problem smallest incident problem solve smallest incident
+119 break large data structure smaller subunits easier manipulate
+119 divideandconquer technique take sort algorithm break array smaller elements array tackle problem run algorithm
+119 divideandconquer paradigm divide problem two piece work piece separately allow faster approach 2 separate smaller problems
+119 take problem divide smaller problem solve smaller problem divide smaller problem solve thus solve whole problem in process
+119 idea split problem half solve smaller splitproblems
+119 divide conquer paradigm split large problem simpler problems point solve simpler problems merge simple solutions together answer large problem
+119 divideandconquer refer abstraction act separate large complex problems smaller easier problems solve relatively simple algorithm
+119 take large problem split two easier faster solutions make better readability
+119 take larger problem split simpler smaller problems
+119 divide problem singular units work problem piece piece until problem solve
+119 smaller part easier compare than compare whole divide problem in halve until easily compare work backwards put back together give solution
+119 divideandconquer paradigm take data divide two part work part indiviually until item find
+119 idea divide conquer take large problem split n smaller problems make program easier read modify
+119 divide conquer paradigm recursive solution keep divide problem halve until base case reach
+119 divide conquer mean break problem two smaller problems solve both put two solutions together
+119 divide big problem small problem solve small problem join small solve elements problem two ore elements in array divide array part compare elements after comperison conquer elements array n element first half n divide 2 elements
+119 divide array in half sort half sort back in one array
+119 take class break everything suppose easily manage function
+119 show use cpp header file split program smaller subsections individual code become easier write keep oppose code in one file
+119 problem big split smaller problems same type solve solutions smaller problem give solution larger original problem
+119 separate large program smaller class until target reach
+1110 use divide conqure technique recursively merge back together compare element together in sort list do reverse divide conquer technique
+1110 merge sort work remove items sepperate memory locations merge back together in order
+1110 divide array two halve sort half merge two halve together
+1110 divide two sublists sublists break length 1 merge sublists sort
+1110 merge sort use divide conquer idea divide array in half multiple time join element array back one sort array one best sort algorithms besides quicksort
+1110 divide line in half coninuously until get single value recombine value form sort line
+1110 continually split array in half sort side halve put back together organize
+1110 merge sort split array elements smaller array until array reach size 1 merge sort merge smaller array array size 2 move next step merge next array
+1110 divide conquer
+1110 break single array many array individual elements sort elements reconstruct back single array
+1110 merge sort break array in half continue until 2 elements compare sort after merge back keep sort algorithm
+1110 merge sort divide problem in half organize half bring two halve together again
+1110 take array split two solve simpler problems merge two answer in correct order
+1110 merge sort recursively divide array half until one element remain sort data way out recursive call merge cells
+1110 merge sort recursively divide array two array until array 1 element point merge 1 element array larger sort array final return array sort version initial array
+1110 merge sort continuously break array in half sort array concatenate back together one sort array
+1110 take array split in half sort two halve lrb either recursion iteration rrb compare together give third array full sort list both halve rejoin
+1110 split large array small array recur until array size 1 merge array back together until source array completely sourted
+1110 mergesort divide array smaller halve combine sort subarrays one sort array
+1110 merge sort break array in halve until compare two value sort two value merge back break part sort level merge set together till return back whole array in order
+1110 divide data twor separate array sort two array merge back back together recursively
+1110 take initial array split two temporary smaller array sort two smaller array merge back single array
+1110 merge sort divide data halve until data one element reach merge element together accord placement in comparison rest data
+1110 merge sort use divide conquer strategy sort array in part merge sort part back together
+1110 divide recursuivly big array two array sort two array merge togather recuruivly
+1110 divide array in half sort half call self thus divide half again again sort until array sort put elements back in original array sort
+1110 merge sort take array split in half send half back recursively merge sort two halve start go back
+1110 merge sort split array two halve sort two smaller array merge back together form sort array
+1110 merge sort continually divide array lrb set containers rrb halve until reach point one element leave merge set two sort array lrb containers rrb
+1110 merge sort split array elements smaller smaller array s till value 1 reach
+121 variable in memory hold address another memory location point
+121 pointer variable contain memory address give value
+121 pointer variable store address another variable
+121 pointer variable hold memory address location another variable
+121 data type point address in memory contain certain information use passbyreference save memory
+121 pointer point location in memory certain data type
+121 pointer variable point address location another variable represent lrb star rrb
+121 pointer variable hold address give variable lrb give data type rrb
+121 pointer program data type whose value point another value store in computer memory address
+121 data type point specific memory address
+121 like variable except hold address in memory variable not physical information
+121 pointer reference memory location
+121 pointer alias object in memory
+121 pointer variable contain memory address something use value array even function
+121 data type memory address value
+121 form store data keep location in memory data type object
+121 contain object s memory address
+121 variable contain memory address data object
+121 pointer element reference memory location
+121 object point specific place in memory variable value store
+121 variable store address memory location
+121 pointer variable point address in memory contain data pointer not contain point data memory address
+121 pointer variable memory address variable
+121 pointer point location in memory data store
+121 variable hold address another variable access content variable
+121 pointer memory address point data member
+121 data type store memory address another variable
+121 like variable hold address in meomrry not physical address
+122 try several set data algorithm include worst case best case random case also try run same program different computer same specs
+122 not answer
+122 time complexity use big o logarthmic o lrb log n rrb linear o lrb n rrb exponential o lrb n power 2 rrb quadratic o lrb n power k rrb k greater than equal 1 polynomial o lrb power n rrb n greater than 1
+122 use sort count principle number operations perform in algorithm
+122 experimental mean would actually write prototype algorithm measure time take run give certain parameters
+122 measure relationship run algorithm different input size
+122 oposite theoretical assessment algorithm determine runtime run code first determine runtime not recommend limit test not include possibilities data nor hardware use process data
+122 not answer
+122 experimental approach measure run time use big o equation tell run time
+122 create run algorithm multiple time while measure amount time take average result
+122 keep value many operations take add value time function call
+122 bigoh
+122 run program various input data measure run time system time
+122 run program different data size like 10 power x increase x measure completion speed program find pattern attempt measure run time important keep same software hardware however make experimental test inferior theoretical in eye
+122 run program through see many time thing call runtime function base
+122 number time specific segment get call per unit work
+122 every call memory add multiply equation type o lrb n rrb
+122 add time marker before algorithm call another time marker immediately after change in time calculate efficiency speed computers cpu
+122 big o lrb h rrb notation
+122 experimental approach measure actual run time in t t equal second
+122 run algorithm specific set data
+122 in experimental term run time algorithm measure number operations require complete function number usually express in bigo notation
+122 run code ntimes get average value drop constant lowest number example f lrb x rrb equal 3n plus 1 run time bef f lrb x rrb equal o lrb n rrb
+122 measure actual time program run calculate run time use input operations do
+122 add number operations perform base worst case possible
+122 experimental approach would run through algorithm see long take
+122 try different set input measure amount time algorithm actually take
+122 run input various input measure run time system time
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 log lrb log n rrb n power 2 n power 3 2 power lrb log n rrb n!
+123 log lrb logn rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 log lrb log lrb n rrb rrb n power 2 n power 3 2 power log lrb n rrb n!
+123 log lrb logn rrb 2 power lrb logn rrb n! n power 3 n power 2
+123 log lrb log n rrb 2 power lrb log n rrb n! n power 2 n power 3
+123 go largest smallest: n! n power 3 n power 2 2 power lrb log n rrb log lrb log n rrb
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 2 power lrb log n rrb log lrb log n rrb n! n power 2 n power 3
+123 log lrb log n rrb n! n power 2 n power 3 n power lrb log n rrb
+123 least greatest: log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 log lrb log n rrb 2 power lrb log n rrb n n power 2 n power 3 n!
+123 2 power lrb log n rrb log lrb log n rrb n power 2 n power 3 n!
+123 lowest longest log lrb log n rrb 2 power lrb log n rrb n! n power 2 n power 3
+123 log lrb log lrb n rrb rrb 2 power log lrb n rrb n power 2 n power 3 n!
+123 log lrb log n rrb 2 power lrb log n rrb n power 2 n power 3 n!
+123 2 power lrb log n rrb n power 3 n power 2 log lrb log n rrb n!
+123 linear logarithmic exponential linear linear
+123 quickest top slowest bottom log lrb log n rrb n power 2 n power 3 2 power lrb log n rrb n!
+123 longest shortest: n power 3 n! n power 2 2 power lrb log n rrb log lrb log n rrb
+123 2 power lrb log n rrb n power 2 power 3 log lrb long n rrb n!
+123 lowest highest 1long lrb long n rrb 2 minus 2 power log lrb n rrb 3 minus n power 2 4 minus n power 3 5 minus n!
+123 log lrb log n rrb n power 2 n power 3 n! 2 power lrb log n rrb
+123 n power 2 n! n power 3 2 power lrb log n rrb log lrb log n rrb
+123 worst best: n! n power 3 n power 2 2 power lrb log n rrb log lrb log n rrb
+123 log lrb long n rrb 2 power lrb log n rrb n power 2 n power 3
+124 scan list select smallest lrb largest rrb element place in front increment curptr one scan list again next smallest lrb largest rrb element place in respect sort elements
+124 selection sort search array lowest value swap first value in array search next lowest value swap second item in array
+124 compare largest element front element swap data accord value need
+124 selection sort sort algorithm divide list in half two list compare first elements in both list put elements in another list smaller element before bigger one
+124 iterate through list lrb assume list integers rrb find smallest one put in separate sort list traverse again find next smallest move sort section repeat until run out elements sort
+124 selection sort select smallest element out list second smallest sort acordingly
+124 select smallest element place leave select smallest element sort respect item already leave continue till end collection items
+124 selection sort scroll through data structure look lowest lrb highest rrb unsorted piece data move hold spot increments spot one start process over
+124 selection sort work find smallest element compare largest sort elements
+124 selection sort usually recursive sort method divide elements sort in half repeatedly sort smallest case work way sort until sort
+124 go middle list check see greater less value give move through list accordingly add value proper place
+124 selection sort find lowest element in data set place behind pivot point
+124 selection sort iterate through array one element time seek least value right replace current value
+124 selection sort traverse unsorted array look smallest value find put begin unsorted array perform several time output sort array
+124 run through list find smallest lrb largest rrb value put appropriate position
+124 pick number set value less than number leave while number right number larger
+124 take largest item in unsorted array swap last item in unsorted array
+124 select first object compare next object find one smaller switch two come back way see object previous last one greater switch while decrease range look until finish in middle
+124 selection sort work go through certain list go through unsorted list select largest item in list place in sort array two array unsorted sort complete step until list sort
+124 selection sort work pull value off side leave one value in list insert value list value bigger go right smaller go leave
+124 selection sort search smallest element remain data organization place largest point new data organization
+124 selection sort sort array one element time first find element smallest key put first location within array list find next smallest put in second location
+124 select element compare 2nd element greater swap
+124 select smallest element in list switch element in correct position select next smallest same
+124 start first element replace smallest element find right repeat next element in list
+124 selection sort pick data member put in new array pick another data member put in order new array pick another insert in correct place in new array etc etc
+124 search through entire data set best element go in current position move position search through remainder set best element new position
+124 selection sort iterate through array one element time search right replace current value
+125 link list grow infinite size array fix size
+125 advantage link list not limit in size like array
+125 link list dont fix size
+125 link list variable size array fix size
+125 link list not definite size big small need not allocate extra memory elements not need array size must define
+125 link list dynamic size array fix size take allot extra operations increase size
+125 not predetermine list size array link list ability large want add memory need
+125 main advantage link list size adjust during runtime
+125 link list able grow in size elements add list
+125 link list not confine specific size elements add remove far easier also easier traverse
+125 no predetermine length
+125 insert link list far cheaper than insert array array items after one insert must shift link list pointers replace
+125 link list may dynamically grow
+125 link list dynamic in change add subtract easily not linear in memory array prespecified in size cast over certain amount disk space make insertion array difficult elements must shift reach end array do even data input link list not run problems
+125 link list indefinite size array specific size
+125 link list no predefined length thus virtually unlimited items in list
+125 grow dynamically unlike fix size array
+125 add many nod like without specify list size array get big copy entire content another larger array get room
+125 linkded list not fix size array fix size
+125 link list dynamic size array static size
+125 link list not memory constraint than total memory
+125 primary advantage link list over array ability become larger smaller data add remove list array may waste memory small data set run out space large data set
+125 array fix size in link list flexible add delete element
+125 resizeable
+125 link list dynamically allocate size change need
+125 link list not specify size easier add remove
+125 dont fix size no shiftnig need do insertion deletion
+125 link list many dynamically grow not limit
+126 data structure in c plus plus first element in queue first element take out queue
+126 queue abstract data type perform operations both end list exhibit firstin firstout behavior
+126 first in first out
+126 queue abstract data type involve put element back list queue use fifo first in first out idea first element in list first come out
+126 data structure implement first in first out element longest first get serve
+126 data structure insert elements end remove elements front
+126 queue collection elements characteristics first in first out lrb fifo rrb first item in first item out additional items add end list
+126 queue data structure insert data fifo configuration data input structure always end data take always begin
+126 particular set entities put in certain order enqueue dequeue function
+126 queue data type operate under filo lrb first in last out rrb method mean first element insert queue first element remove
+126 like link list except first in last out
+126 queue like stack except follow fifo lrb first in first out rrb
+126 queue data structure first node in first node out
+126 queue first in first out data structure much like line movie theatre first object in line first object handle enact upon
+126 lot like stack except first item put list first item take list
+126 first in first out list items like put 5 4 3 2 1 in queue dequeue items remove items in same order put in thus put out 5 4 3 2 1 in exact order
+126 link list first in out structure dequeue head list enqueue end list
+126 list object follow rule first in first out essentially link list go in order first object in list first take off
+126 queue abstract data type base off priniple first in first out fifo first item insert list first item take out
+126 first in first out data structure implement either link list array
+126 order list perform task in order first in first out add items queue place items behind rest take items off queue take one wait longest
+126 queue linear firstin firstout data structure data must access in same order put queue oldest item in queue accessible time main function define enqueue dequeue
+126 queue buffer follow rule first in first out queue useful in computer science schedule
+126 queue set elements first element insert first element remove
+126 list items user access first element new element add end
+126 queue list data follow fifo principle example would get line movie theater first one get buy ticket first
+126 queue data structure hold set object fifo lrb first in first out rrb priority
+126 like link list expect first in last out
+127 push pop
+127 pop remove head least recently insert node stack push insert new node head stack
+127 push pop
+127 push function pop function
+127 push pop
+127 push put element stack poptakes element off stack
+127 push pop
+127 push pop
+127 push pop
+127 push pop push add element stack while pop remove top element stack
+127 pop push
+127 push pop search isempty
+127 push pop
+127 push pop isempty isfull maybe list show elements operation count many elements in stack
+127 pop push
+127 isempty push pop along usually
+127 push pop
+127 push pop push put object stack pop take out follow first in last out rule
+127 main operations in stack push pop push add item top stack pop remove top item stack
+127 push pop
+127 push add item top stack pop take first item off top stack
+127 main function define stack push put element top stack pop remove item top
+127 push lrb rrb pop lrb rrb full lrb rrb isempty lrb rrb
+127 pop push remove element insert element
+127 push pop
+127 push pop
+127 push add element top stack pop remove top element stack
+127 push pop
+128 traverse tree size visit node three time order 3n o lrb n rrb run time
+128 euler tour traversal tree begin root visit node in tree leave bottom right side
+128 visit in order accord data value
+128 tree show function contain parent children siblings ancestors descendents use tree type algorithm also alternative sort algorithm
+128 start root circle around whole tree name node see
+128 visit parent vistit children
+128 start root travel leave visit ever child along way till return root right
+128 traverse tree terminal child siblings traverse terminal child s parent siblings lrb repeat first step siblings children rrb until root node visit
+128 euler tour traversal tree function iteratively keep track pointer node
+128 travel outside edge tree clockwise while name node
+128 children root
+128 go bottom leave sub tree visit parent children
+128 euler tour traverse through tree in rubberband style shape
+128 euler tour traversal tree specific way navigate tree involve follow tree start top move along leave side tree first cup in visit parent children nod allow node visit leave right bottom euler tour first progress leave child one progress parent next child parent s parent
+128 run through parent children in order
+128 start node leave root proceed visit node in leave right order visit root proceed repeat previous step right side tree
+128 travel root farthest leave child backup travel leftmost children in right side repeat until reach rightmost child
+128 preorder in order postorder tree preorder equal put parent node in front child node lrb s rrb in order equal put parent node between leave child right child node lrb s rrb postorder equal put parent node after child node lrb s rrb
+128 euler traveral go through tree look nod put in order leave root right like inorder traversal
+128 euler traversal traversal begin root travel around outside tree element in tree visit 3 time leave bottom right
+128 euler tour traversal tree traverse branch straight one leaf start again root repeat until elements traverse
+128 euler tour visit every node in tree start root work around tree counterclockwise inorder postorder preorder traversals see variations euler tour traversal
+128 not answer
+128 traverse go leave go right last children back top kind like go around tree
+128 recursively visit every node list visit node leave bottom right
+128 euler tour way traverse tree come contact node three time leave right bottom
+128 traverse tree level level
+128 euler traversal through tree in rubber band style shape
+129 root set root null else delete right leaf set rightptr parent node null else delete leave leaf set leftptr parent node null else delete leave right subtree child node set max leaf child in leave subtree new child node
+129 traverse tree find node node no children simply delete otherwise set node s data equal data one children set pointer child null
+129 first attach elements node delete alternate nod delete node delete node
+129 delete node tree link nod parent children node
+129 must delete information node contain lrb free memory garbage collect rrb also delete pointer lrb in node s parent rrb point node wish delete
+129 replace node largest element leave subtree replace smallest element right subtree
+129 traverse tree till find node want delete node no children delete node children before delete find leftmost children attach root delete node
+129 link tobedeleted s leave child tobedeleted s parent s leave child pointer
+129 way delete node binary search tree first take root see nod come root delete nod set root null
+129 remove element tree move next highest element leave place
+129 delete node
+129 deletion node depend upon children avl binary search tree assume not avl tree node delete no children set pointer null leave child right child exclusively child replace delete node two children leave child right sub tree lrb right child leave subtree rrb replace
+129 node leaf set parent s pointer null delete single child set parent s pointer child delete two children set node one middle children remove child previous position leaf lrb rightmost child leave subtree leftmost child right subtree rrb
+129 in binary search tree must first establish proper replacement node delete usually child soon delete node replacement node find simply reassign node go delete after delete node usurp remove delete node memory may use again
+129 depend node locate child delete node inside tree must replace another node work in place
+129 node no children delete right away otherwise put either furthest right node leave side furthest leave node right side in place perform above node guarantee children get handle properly
+129 create temp node set temp s value node after head null in case head node in list set head equal temp delete temp
+129 search tree until find node replace link node greatest child node leave subtree least child node right subtree
+129 set nod null not point anything use delete opertator clear space memory
+129 must first traverse tree find appropriate value must make sure node leaf node delete pointer specific node
+129 node leaf set parent s pointer null node in tree must replace node one in tree: either largest in leave tree smallest in right tree do recursively need
+129 node leaf simply deallocated delete memory parent s reference change null node single child pointer should make point child before delete node should node two children easiest solution may copy node s entire subtree new array tree delete node descendants add elements take subtree back main tree
+129 not answer
+129 cannot delete node cause node than 2 children
+129 search tree node use recursion find node determine whether leaf internal node leaf delete set parent pointer node null node replace node either children nod
+129 delete node would link children nod connect node delete remain nod tree in way nod right parent node larger than parent nod leave parent node smaller
+129 no children delete one child replace node whichever child both children replace one children send child along side new node
+129 pointer child delete 2 children set node child delete node th middle take place
+1210 log lrb n rrb n number nod
+1210 log lrb n rrb step
+1210 number level height tree
+1210 same height tree
+1210 give n elements would take n divide 2 step find search criteria
+1210 log n
+1210 depend location node look root one step else smaller than current node go leave larger than current node go right
+1210 2 power n n level binary tree
+1210 number step search node function n minus 1
+1210 would take n divide 2 elements give n
+1210 log lrb n rrb
+1210 o lrb log n rrb
+1210 o lrb log lrb n rrb rrb
+1210 binary search tree construct efficiently best case scenario o lrb log n rrb time n number items in tree binary search tree construct poorly instance root tree 1 progress downwards right children than last: oneway linear link list worse case scenario would full traversal o lrb n rrb time n number items in tree
+1210 n n number nod
+1210 depend way tree order could anywhere between log lrb n rrb n step
+1210 log lrb n rrb
+1210 worst case scenario equal number level tree ie: node farthest position root node best case equal 1 step root node
+1210 3 step 3 case
+1210 log lrb n rrb n equal total number nod in tree
+1210 same number step number level generations in tree
+1210 find node in binary search tree take same number step level tree
+1210 three step visit root node go right subtree after visit right subtree visit leave subtree
+1210 log n
+1210 lrb n lrb n minus 1 rrb rrb divide 2
+1210 2n1
+1210 take h step h height tree
+1210 depend install search tree whatever case repeat back along case primary node
